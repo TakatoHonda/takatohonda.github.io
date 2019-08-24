@@ -1,7 +1,7 @@
 title: Takato Honda
 logo: /assets/img/face.jpg
 description: I am a Ph.D. student at Osaka University, Japan.
-My research focuses on time-series tensor mining for IoT sensor sequences.
+             My research focuses on time-series tensor mining for IoT sensor sequences.
 show_downloads: false
 google_analytics:
 theme: jekyll-theme-minimal
