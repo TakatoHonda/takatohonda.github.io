@@ -8,13 +8,14 @@ layout: default
 [The Institute of Scientific and Industrial Research](https://sanken.osaka-u.ac.jp/en/)  
 [Osaka University](https://www.osaka-u.ac.jp/en/index.html)  
 
-### Publications
+### Publications (International)
 *   Takato Honda, Yasuko Matsubara, Ryo Neyama, Mutsumi Abe, Yasushi Sakurai: ``Multi-Aspect Mining of Complex Sensor Sequences”, IEEE International Conference on Data Mining (**ICDM**), Beijing, China, November 8-11, 2019 (Full paper) (Acceptance ratio 9.1%) (to appear).
 *   Takato Honda, Yasuko Matsubara, Yasushi Sakurai: ``Automatic Mining of Large IoT Sensor Tensor", IEEE International Conference on Data Mining (**ICDM**) Ph.D. Forum, Singapore, November 17-20, 2018.
 *   Takato Honda: ``TrailMarker: Automatic Mining of Geographical Complex Sequences", ACM SIGMOD International Conference on Management of Data (**SIGMOD**), Ph.D. Symposium, San Francisco, USA, June 2016.
 
 ### Awards
 *   JASSO Repayment Exemption (All) (May 2017)
+*   IPSJ TOD Recommended Paper (September 2016)
 *   ACM SIGMOD Student Grants (SIGMOD 2016)
 *   JGC-S Grants (June 2016)
 *   NAKATO Grants (April 2016)
