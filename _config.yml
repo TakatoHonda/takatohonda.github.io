@@ -1,6 +1,6 @@
 title: Takato Honda
-description: If today were the last day of my life, 
-             would I want to do what I am about to do today?
+logo: /assets/img/logo.png
+description: I am a perfect human.
 show_downloads: false
 google_analytics:
-theme: jekyll-theme-cayman
+theme: jekyll-theme-minimal
