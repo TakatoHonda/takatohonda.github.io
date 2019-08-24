@@ -2,10 +2,6 @@
 layout: default
 ---
 
-### Takato Honda
-I am a Ph.D. student at Osaka University, Japan.  
-My research focuses on time-series tensor mining for IoT sensor sequences.  
-
 ### Affiliation
 
 [Sakurai Laboratory](https://www.dm.sanken.osaka-u.ac.jp)  
