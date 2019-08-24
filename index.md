@@ -5,7 +5,7 @@ layout: default
 ### Affiliation
 [Sakurai Laboratory](https://www.dm.sanken.osaka-u.ac.jp)  
 [Artificial Intelligence Research Center](https://www.sanken.osaka-u.ac.jp/organization/ai_center/)  
-[The Institute of Scientific and Industrial Research](https://sanken.osaka-u.ac.jp/en/)  
+[The Institute of Scientific and Industrial Research](https://www.sanken.osaka-u.ac.jp/en/)  
 [Osaka University](https://www.osaka-u.ac.jp/en/index.html)  
 
 ### Publications (International)
@@ -14,7 +14,7 @@ layout: default
 *   Takato Honda: ``TrailMarker: Automatic Mining of Geographical Complex Sequences", ACM SIGMOD International Conference on Management of Data (**SIGMOD**), Ph.D. Symposium, San Francisco, USA, June 2016.
 
 ### Awards
-*   JASSO Repayment Exemption (All) (May 2017)
+*   JASSO Repayment Exemption with Excellent Grades (All) (May 2017)
 *   IPSJ TOD Recommended Paper (September 2016)
 *   ACM SIGMOD Student Grants (SIGMOD 2016)
 *   JGC-S Grants (June 2016)
