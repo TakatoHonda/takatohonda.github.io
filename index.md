@@ -13,12 +13,8 @@ layout: default
 <summary>
 Multi-Aspect Mining of Complex Sensor Sequences (ICDM'19)
 </summary>
-<div>
-
 Takato Honda, Yasuko Matsubara, Ryo Neyama, Mutsumi Abe, Yasushi Sakurai: <u>``Multi-Aspect Mining of Complex Sensor Sequences”</u>, IEEE International Conference on Data Mining (ICDM), Beijing, China, November 8-11, 2019 (Full paper) (Acceptance ratio 9.1%) (to appear).
-
-![Crown jewel](./assets/img/cubemarker.jpg)
-</div></details>
+</details>
 <details>
 <summary>
 Automatic Mining of Large IoT Sensor Tensor (ICDM'18)
