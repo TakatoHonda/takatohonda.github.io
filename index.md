@@ -22,6 +22,7 @@ Takato Honda, Yasuko Matsubara, Yasushi Sakurai: <u>``Automatic Mining of Large 
 Takato Honda: <u>``TrailMarker: Automatic Mining of Geographical Complex Sequences"</u>, ACM SIGMOD International Conference on Management of Data (SIGMOD), Ph.D. Symposium, San Francisco, USA, June 2016.
 </details>  
 
+
 ### Awards
 *   JASSO Repayment Exemption with Excellent Grades (All) (May 2017)
 *   IPSJ TOD Recommended Paper (September 2016)
