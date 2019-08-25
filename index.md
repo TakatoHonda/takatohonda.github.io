@@ -13,7 +13,6 @@ layout: default
 <summary>
 Multi-Aspect Mining of Complex Sensor Sequences (ICDM'19)
 </summary>
-<div>
 Takato Honda, Yasuko Matsubara, Ryo Neyama, Mutsumi Abe, Yasushi Sakurai: <u>``Multi-Aspect Mining of Complex Sensor Sequences”</u>, IEEE International Conference on Data Mining (ICDM), Beijing, China, November 8-11, 2019 (Full paper) (Acceptance ratio 9.1%) (to appear).
 </details>
 <details>
@@ -27,8 +26,7 @@ Takato Honda, Yasuko Matsubara, Yasushi Sakurai: <u>``Automatic Mining of Large 
 Automatic Mining of Geographical Complex Sequences (SIGMOD'16)
 </summary>
 Takato Honda: <u>``TrailMarker: Automatic Mining of Geographical Complex Sequences"</u>, ACM SIGMOD International Conference on Management of Data (SIGMOD), Ph.D. Symposium, San Francisco, USA, June 2016.
-</div>
-</details>
+</details><br>
 
 ### Awards
 JASSO Repayment Exemption with Excellent Grades (All) (May 2017)  
