@@ -9,9 +9,11 @@ layout: default
 [Osaka University](https://www.osaka-u.ac.jp/en/index.html)  
 
 ### Publications (International)
-*   Takato Honda, Yasuko Matsubara, Ryo Neyama, Mutsumi Abe, Yasushi Sakurai: ``Multi-Aspect Mining of Complex Sensor Sequences”, IEEE International Conference on Data Mining (**ICDM**), Beijing, China, November 8-11, 2019 (Full paper) (Acceptance ratio 9.1%) (to appear).
-*   Takato Honda, Yasuko Matsubara, Yasushi Sakurai: ``Automatic Mining of Large IoT Sensor Tensor", IEEE International Conference on Data Mining (**ICDM**) Ph.D. Forum, Singapore, November 17-20, 2018.
-*   Takato Honda: ``TrailMarker: Automatic Mining of Geographical Complex Sequences", ACM SIGMOD International Conference on Management of Data (**SIGMOD**), Ph.D. Symposium, San Francisco, USA, June 2016.
+<details>
+*   Takato Honda, Yasuko Matsubara, Ryo Neyama, Mutsumi Abe, Yasushi Sakurai: <summary>``Multi-Aspect Mining of Complex Sensor Sequences”</summary>, IEEE International Conference on Data Mining (**ICDM**), Beijing, China, November 8-11, 2019 (Full paper) (Acceptance ratio 9.1%) (to appear).
+</details>
+*   Takato Honda, Yasuko Matsubara, Yasushi Sakurai: <u>``Automatic Mining of Large IoT Sensor Tensor"</u>, IEEE International Conference on Data Mining (**ICDM**) Ph.D. Forum, Singapore, November 17-20, 2018.
+*   Takato Honda: <u>``TrailMarker: Automatic Mining of Geographical Complex Sequences"</u>, ACM SIGMOD International Conference on Management of Data (**SIGMOD**), Ph.D. Symposium, San Francisco, USA, June 2016.
 
 ### Awards
 *   JASSO Repayment Exemption with Excellent Grades (All) (May 2017)
