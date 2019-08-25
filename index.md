@@ -11,21 +11,21 @@ layout: default
 ### Publications (International)
 <details>
 <summary>
-Multi-Aspect Mining of Complex Sensor Sequences(<strong>ICDM'19</strong>)
+Multi-Aspect Mining of Complex Sensor Sequences (ICDM'19)
 </summary>
 Takato Honda, Yasuko Matsubara, Ryo Neyama, Mutsumi Abe, Yasushi Sakurai: <u>``Multi-Aspect Mining of Complex Sensor Sequences”</u>, IEEE International Conference on Data Mining (ICDM), Beijing, China, November 8-11, 2019 (Full paper) (Acceptance ratio 9.08%) (to appear).
 </details>
 
 <details>
 <summary>
-Automatic Mining of Large IoT Sensor Tensor(<strong>ICDM'18</strong>)
+Automatic Mining of Large IoT Sensor Tensor (ICDM'18)
 </summary>
 Takato Honda, Yasuko Matsubara, Yasushi Sakurai: <u>``Automatic Mining of Large IoT Sensor Tensor"</u>, IEEE International Conference on Data Mining (ICDM) Ph.D. Forum, Singapore, November 17-20, 2018.
 </details>
 
 <details>
 <summary>
-Automatic Mining of Geographical Complex Sequences(<strong>SIGMOD'16</strong>)
+Automatic Mining of Geographical Complex Sequences (SIGMOD'16)
 </summary>
 Takato Honda: <u>``TrailMarker: Automatic Mining of Geographical Complex Sequences"</u>, ACM SIGMOD International Conference on Management of Data (SIGMOD), Ph.D. Symposium, San Francisco, USA, June 2016.
 </details><br>
