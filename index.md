@@ -8,7 +8,7 @@ layout: default
 [The Institute of Scientific and Industrial Research](https://www.sanken.osaka-u.ac.jp/en/)  
 [Osaka University](https://www.osaka-u.ac.jp/en/index.html)  
 
-Contact me: [takato88 at sanken.osaka-u.ac.jp](takato88@sanken.osaka-u.ac.jp)  
+Contact me: <takato88@sanken.osaka-u.ac.jp>  
 
 ### Publications (International)
 <details>
