@@ -32,11 +32,11 @@ Automatic Mining of Geographical Complex Sequences (SIGMOD'16)
 Takato Honda: <u>``TrailMarker: Automatic Mining of Geographical Complex Sequences"</u>, ACM SIGMOD International Conference on Management of Data (SIGMOD), Ph.D. Symposium, San Francisco, USA, June 2016.
 </details><br>
 
-### Awards
+### Awards/Grants
 JASSO Repayment Exemption with Excellent Grades (Full) (May 2017)  
 Grant-in-Aid for JSPS Fellows (DC1) (April 2017)  
 IPSJ TOD Recommended Paper (September 2016)  
-ACM SIGMOD Student Grants (SIGMOD 2016)  
+ACM SIGMOD Student Grants (June 2016)  
 JGC-S Grants (June 2016)  
 NAKATO Grants (April 2016)  
 WebDB Forum 2015 Best Paper Award (November 2015)  
