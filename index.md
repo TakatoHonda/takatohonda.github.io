@@ -34,6 +34,7 @@ Takato Honda: <u>``TrailMarker: Automatic Mining of Geographical Complex Sequenc
 
 ### Awards
 JASSO Repayment Exemption with Excellent Grades (Full) (May 2017)  
+Grant-in-Aid for JSPS Fellows (DC1) (April 2017)
 IPSJ TOD Recommended Paper (September 2016)  
 ACM SIGMOD Student Grants (SIGMOD 2016)  
 JGC-S Grants (June 2016)  
