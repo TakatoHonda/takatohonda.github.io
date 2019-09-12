@@ -13,11 +13,11 @@ Contact me: <takato88@sanken.osaka-u.ac.jp>
 
 ### Education
 - Ph.D. (2020)  
-    Graduate School of Science and Technology, Computer Science and Electrical Engineering, Kumamoto University
+    Graduate School of Science and Technology, Computer Science and Electrical Engineering, [Kumamoto University](https://www.kumamoto-u.ac.jp/)
 - M.Sc. (2017)  
-    Graduate School of Science and Technology, Computer Science and Electrical Engineering, Kumamoto University
+    Graduate School of Science and Technology, Computer Science and Electrical Engineering, [Kumamoto University](https://www.kumamoto-u.ac.jp/)
 - B.Sc. (2015)  
-    Department of Computer Science and Electrical Engineering, Kumamoto University
+    Department of Computer Science and Electrical Engineering, [Kumamoto University](https://www.kumamoto-u.ac.jp/)
 
 ### Publications (International, Selected)
 <details>
@@ -31,14 +31,14 @@ Takato Honda, Yasuko Matsubara, Ryo Neyama, Mutsumi Abe, Yasushi Sakurai: <u>``M
 <summary>
 Automatic Mining of Large IoT Sensor Tensor (ICDM'18)
 </summary>
-Takato Honda, Yasuko Matsubara, Yasushi Sakurai: <u>``Automatic Mining of Large IoT Sensor Tensor"</u>, IEEE International Conference on Data Mining (ICDM) Ph.D. Forum, Singapore, November 17-20, 2018.
+Takato Honda, Yasuko Matsubara, Yasushi Sakurai: <u>``Automatic Mining of Large IoT Sensor Tensor"</u>, IEEE International Conference on Data Mining (ICDM) Ph.D. Forum, Singapore, November 17-20, 2018.[paper](https://ieeexplore.ieee.org/document/8637498)
 </details>
 
 <details>
 <summary>
 Automatic Mining of Geographical Complex Sequences (SIGMOD'16)
 </summary>
-Takato Honda: <u>``TrailMarker: Automatic Mining of Geographical Complex Sequences"</u>, ACM SIGMOD International Conference on Management of Data (SIGMOD), Ph.D. Symposium, San Francisco, USA, June 2016.
+Takato Honda: <u>``TrailMarker: Automatic Mining of Geographical Complex Sequences"</u>, ACM SIGMOD International Conference on Management of Data (SIGMOD), Ph.D. Symposium, San Francisco, USA, June 2016. [paper](https://dl.acm.org/citation.cfm?doid=2926693.2929903)
 </details><br>
 
 ### Awards/Grants
