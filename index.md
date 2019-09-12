@@ -24,21 +24,21 @@ Contact me: <takato88@sanken.osaka-u.ac.jp>
 <summary>
 Multi-Aspect Mining of Complex Sensor Sequences (ICDM'19)
 </summary>
-Takato Honda, Yasuko Matsubara, Ryo Neyama, Mutsumi Abe, Yasushi Sakurai: <u>``Multi-Aspect Mining of Complex Sensor Sequences”</u>, IEEE International Conference on Data Mining (ICDM), Beijing, China, November 8-11, 2019 (Full paper) (Acceptance ratio 9.08%) (to appear).
+Takato Honda, Yasuko Matsubara, Ryo Neyama, Mutsumi Abe, Yasushi Sakurai: <u>``Multi-Aspect Mining of Complex Sensor Sequences”</u>, IEEE International Conference on Data Mining (ICDM), Beijing, China, November 8-11, 2019 (Full paper) (Acceptance ratio 9.08%) (to appear)<a href="https://github.com/TakatoHonda/CubeMarker">[code]</a>.
 </details>
 
 <details>
 <summary>
 Automatic Mining of Large IoT Sensor Tensor (ICDM'18)
 </summary>
-Takato Honda, Yasuko Matsubara, Yasushi Sakurai: <u>``Automatic Mining of Large IoT Sensor Tensor"</u>, IEEE International Conference on Data Mining (ICDM) Ph.D. Forum, Singapore, November 17-20, 2018.[paper](https://ieeexplore.ieee.org/document/8637498)
+Takato Honda, Yasuko Matsubara, Yasushi Sakurai: <u>``Automatic Mining of Large IoT Sensor Tensor"</u>, IEEE International Conference on Data Mining (ICDM) Ph.D. Forum, Singapore, November 17-20, 2018.<a href="https://ieeexplore.ieee.org/document/8637498">[paper]</a>
 </details>
 
 <details>
 <summary>
 Automatic Mining of Geographical Complex Sequences (SIGMOD'16)
 </summary>
-Takato Honda: <u>``TrailMarker: Automatic Mining of Geographical Complex Sequences"</u>, ACM SIGMOD International Conference on Management of Data (SIGMOD), Ph.D. Symposium, San Francisco, USA, June 2016. [paper](https://dl.acm.org/citation.cfm?doid=2926693.2929903)
+Takato Honda: <u>``TrailMarker: Automatic Mining of Geographical Complex Sequences"</u>, ACM SIGMOD International Conference on Management of Data (SIGMOD), Ph.D. Symposium, San Francisco, USA, June 2016. <a href="https://dl.acm.org/citation.cfm?doid=2926693.2929903">[paper]</a>
 </details><br>
 
 ### Awards/Grants
