@@ -12,7 +12,7 @@ Mihogaoka 8-1, Ibaraki, Osaka 567-0047, Japan
 Contact me: <takato88@sanken.osaka-u.ac.jp>  
 
 ### Education
-- Ph.D. (2020)  
+- Ph.D. (expected in 2020)  
     Graduate School of Science and Technology,  
     Computer Science and Electrical Engineering,  
     [Kumamoto University](https://www.kumamoto-u.ac.jp/)
