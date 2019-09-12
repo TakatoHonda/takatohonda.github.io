@@ -11,7 +11,15 @@ Mihogaoka 8-1, Ibaraki, Osaka 567-0047, Japan
 
 Contact me: <takato88@sanken.osaka-u.ac.jp>  
 
-### Publications (International)
+### Education
+- Ph.D. (2020)
+    Graduate School of Science and Technology, Computer Science and Electrical Engineering, Kumamoto University
+- M.Sc. (2017)
+    Graduate School of Science and Technology, Computer Science and Electrical Engineering, Kumamoto University
+- B.Sc. (2015)
+    Department of Computer Science and Electrical Engineering, Kumamoto University
+
+### Publications (International, Selected)
 <details>
 <summary>
 Multi-Aspect Mining of Complex Sensor Sequences (ICDM'19)
@@ -34,6 +42,7 @@ Takato Honda: <u>``TrailMarker: Automatic Mining of Geographical Complex Sequenc
 </details><br>
 
 ### Awards/Grants
+WebDB Forum 2019 FUJITSU Award (Poster) (September 2019)
 JASSO Repayment Exemption with Excellent Grades (Full) (May 2017)  
 Grant-in-Aid for JSPS Fellows (DC1) (April 2017)  
 IPSJ TOD Recommended Paper (September 2016)  
