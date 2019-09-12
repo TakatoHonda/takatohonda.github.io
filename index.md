@@ -56,12 +56,12 @@ Takato Honda: <u>``TrailMarker: Automatic Mining of Geographical Complex Sequenc
 </details><br>
 
 ### Awards/Grants
-- Sep. 2019: WebDB Forum 2019 FUJITSU Award (Poster)  
-- May  2017: JASSO Repayment Exemption (Full)  
-- Apr. 2017: Grant-in-Aid for JSPS Fellows (DC1)  
-- Sep. 2016: IPSJ TOD Recommended Paper  
-- Jun. 2016: ACM SIGMOD Student Grants (June 2016)  
-- Jun. 2016: JGC-S Grants  
-- Apr. 2016: NAKATO Grants  
-- Nov. 2015: WebDB Forum 2015 Best Paper Award  
-- Nov. 2015: WebDB Forum 2015 Student Award  
+- \[Sep. 2019\]: WebDB Forum 2019 FUJITSU Award (Poster)  
+- [May  2017]: JASSO Repayment Exemption (Full)  
+- [Apr. 2017]: Grant-in-Aid for JSPS Fellows (DC1)  
+- [Sep. 2016]: IPSJ TOD Recommended Paper  
+- [Jun. 2016]: ACM SIGMOD Student Grants  
+- [Jun. 2016]: JGC-S Grants  
+- [Apr. 2016]: NAKATO Grants  
+- [Nov. 2015]: WebDB Forum 2015 Best Paper Award  
+- [Nov. 2015]: WebDB Forum 2015 Student Award  
