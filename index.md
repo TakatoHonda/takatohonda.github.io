@@ -36,9 +36,9 @@ Takato Honda, Yasuko Matsubara, Yasushi Sakurai: <u>``Automatic Mining of Large 
 
 <details>
 <summary>
-Automatic Mining of Geographical Complex Sequences (SIGMOD'16)
+Automatic Mining of Geographical Complex Sequences (SIGMOD'16)<a href="https://dl.acm.org/citation.cfm?doid=2926693.2929903">[paper]</a>
 </summary>
-Takato Honda: <u>``TrailMarker: Automatic Mining of Geographical Complex Sequences"</u>, ACM SIGMOD International Conference on Management of Data (SIGMOD), Ph.D. Symposium, San Francisco, USA, June 2016. <a href="https://dl.acm.org/citation.cfm?doid=2926693.2929903">[paper]</a>
+Takato Honda: <u>``TrailMarker: Automatic Mining of Geographical Complex Sequences"</u>, ACM SIGMOD International Conference on Management of Data (SIGMOD), Ph.D. Symposium, San Francisco, USA, June 2016. 
 </details><br>
 
 ### Awards/Grants
