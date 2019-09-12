@@ -22,21 +22,21 @@ Contact me: <takato88@sanken.osaka-u.ac.jp>
 ### Publications (International, Selected)
 <details>
 <summary>
-Multi-Aspect Mining of Complex Sensor Sequences (ICDM'19)
+Multi-Aspect Mining of Complex Sensor Sequences (ICDM'19)  <a href="https://github.com/TakatoHonda/CubeMarker">[code]</a>
 </summary>
-Takato Honda, Yasuko Matsubara, Ryo Neyama, Mutsumi Abe, Yasushi Sakurai: <u>``Multi-Aspect Mining of Complex Sensor Sequences”</u>, IEEE International Conference on Data Mining (ICDM), Beijing, China, November 8-11, 2019 (Full paper) (Acceptance ratio 9.08%) (to appear)<a href="https://github.com/TakatoHonda/CubeMarker">[code]</a>.
+Takato Honda, Yasuko Matsubara, Ryo Neyama, Mutsumi Abe, Yasushi Sakurai: <u>``Multi-Aspect Mining of Complex Sensor Sequences”</u>, IEEE International Conference on Data Mining (ICDM), Beijing, China, November 8-11, 2019 (Full paper) (Acceptance ratio 9.08%) (to appear).
 </details>
 
 <details>
 <summary>
-Automatic Mining of Large IoT Sensor Tensor (ICDM'18)
+Automatic Mining of Large IoT Sensor Tensor (ICDM'18)  <a href="https://ieeexplore.ieee.org/document/8637498">[paper]</a>
 </summary>
-Takato Honda, Yasuko Matsubara, Yasushi Sakurai: <u>``Automatic Mining of Large IoT Sensor Tensor"</u>, IEEE International Conference on Data Mining (ICDM) Ph.D. Forum, Singapore, November 17-20, 2018.<a href="https://ieeexplore.ieee.org/document/8637498">[paper]</a>
+Takato Honda, Yasuko Matsubara, Yasushi Sakurai: <u>``Automatic Mining of Large IoT Sensor Tensor"</u>, IEEE International Conference on Data Mining (ICDM) Ph.D. Forum, Singapore, November 17-20, 2018.
 </details>
 
 <details>
 <summary>
-Automatic Mining of Geographical Complex Sequences (SIGMOD'16)<a href="https://dl.acm.org/citation.cfm?doid=2926693.2929903">[paper]</a>
+Automatic Mining of Geographical Complex Sequences (SIGMOD'16)  <a href="https://dl.acm.org/citation.cfm?doid=2926693.2929903">[paper]</a>
 </summary>
 Takato Honda: <u>``TrailMarker: Automatic Mining of Geographical Complex Sequences"</u>, ACM SIGMOD International Conference on Management of Data (SIGMOD), Ph.D. Symposium, San Francisco, USA, June 2016. 
 </details><br>
