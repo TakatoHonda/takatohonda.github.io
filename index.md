@@ -13,30 +13,44 @@ Contact me: <takato88@sanken.osaka-u.ac.jp>
 
 ### Education
 - Ph.D. (2020)  
-    Graduate School of Science and Technology, Computer Science and Electrical Engineering, [Kumamoto University](https://www.kumamoto-u.ac.jp/)
+    Graduate School of Science and Technology,  
+    Computer Science and Electrical Engineering,  
+    [Kumamoto University](https://www.kumamoto-u.ac.jp/)
 - M.Sc. (2017)  
-    Graduate School of Science and Technology, Computer Science and Electrical Engineering, [Kumamoto University](https://www.kumamoto-u.ac.jp/)
+    Graduate School of Science and Technology,  
+    Computer Science and Electrical Engineering,  
+    [Kumamoto University](https://www.kumamoto-u.ac.jp/)
 - B.Sc. (2015)  
-    Department of Computer Science and Electrical Engineering, [Kumamoto University](https://www.kumamoto-u.ac.jp/)
+    Department of Computer Science and Electrical Engineering,  
+    [Kumamoto University](https://www.kumamoto-u.ac.jp/)
 
 ### Publications (International, Selected)
 <details>
 <summary>
-Multi-Aspect Mining of Complex Sensor Sequences (ICDM'19)<br><a href="https://github.com/TakatoHonda/CubeMarker">[code]</a>
+Multi-Aspect Mining of Complex Sensor Sequences (ICDM'19)<br>
+<a href="https://github.com/TakatoHonda/CubeMarker">[code]</a>
+<a href="https://github.com/TakatoHonda/CubeMarker">[paper]</a>
+<a href="https://github.com/TakatoHonda/CubeMarker">[slide]</a>
 </summary>
 Takato Honda, Yasuko Matsubara, Ryo Neyama, Mutsumi Abe, Yasushi Sakurai: <u>``Multi-Aspect Mining of Complex Sensor Sequences”</u>, IEEE International Conference on Data Mining (ICDM), Beijing, China, November 8-11, 2019 (Full paper) (Acceptance ratio 9.08%) (to appear).
 </details>
 
 <details>
 <summary>
-Automatic Mining of Large IoT Sensor Tensor (ICDM'18)<br><a href="https://ieeexplore.ieee.org/document/8637498">[paper]</a>
+Automatic Mining of Large IoT Sensor Tensor (ICDM'18)<br>
+<a href="https://ieeexplore.ieee.org/document/8637498">[code]</a>
+<a href="https://ieeexplore.ieee.org/document/8637498">[paper]</a>
+<a href="https://ieeexplore.ieee.org/document/8637498">[slide]</a>
 </summary>
 Takato Honda, Yasuko Matsubara, Yasushi Sakurai: <u>``Automatic Mining of Large IoT Sensor Tensor"</u>, IEEE International Conference on Data Mining (ICDM) Ph.D. Forum, Singapore, November 17-20, 2018.
 </details>
 
 <details>
 <summary>
-Automatic Mining of Geographical Complex Sequences (SIGMOD'16)<br><a href="https://dl.acm.org/citation.cfm?doid=2926693.2929903">[paper]</a>
+Automatic Mining of Geographical Complex Sequences (SIGMOD'16)<br>
+<a href="https://dl.acm.org/citation.cfm?doid=2926693.2929903">[code]</a>
+<a href="https://dl.acm.org/citation.cfm?doid=2926693.2929903">[paper]</a>
+<a href="https://dl.acm.org/citation.cfm?doid=2926693.2929903">[slide]</a>
 </summary>
 Takato Honda: <u>``TrailMarker: Automatic Mining of Geographical Complex Sequences"</u>, ACM SIGMOD International Conference on Management of Data (SIGMOD), Ph.D. Symposium, San Francisco, USA, June 2016. 
 </details><br>
