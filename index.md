@@ -56,6 +56,7 @@ Takato Honda: <u>``TrailMarker: Automatic Mining of Geographical Complex Sequenc
 </details><br>
 
 ### Awards/Grants
+- \[2015 - 2020\]: Tuition Fee Exemption (Full)  
 - \[Sep. 2019\]: WebDB Forum 2019 FUJITSU Award (Poster)  
 - \[May  2017\]: JASSO Repayment Exemption (Full)  
 - \[Apr. 2017\]: Grant-in-Aid for JSPS Fellows (DC1)  
