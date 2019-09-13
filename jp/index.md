@@ -2,6 +2,13 @@
 layout: default
 ---
 
+### 本田 崇人（ほんだ たかと）
+[所属](#所属)
+[論文](#国際会議（抜粋）)
+[受賞](#受賞/賞金獲得など)
+[スキル](#スキル)
+[経歴](#)
+
 ### 所属
 [大阪大学](https://www.osaka-u.ac.jp/en/index.html)  
 [産業科学研究所](https://www.sanken.osaka-u.ac.jp/en/)  
@@ -59,7 +66,7 @@ Takato Honda: <u>``TrailMarker: Automatic Mining of Geographical Complex Sequenc
 - Python, C, C++, MATLAB  
 - TOEIC Listening & Reading Test Score 805 (2017年 3月)  
 
-### 履歴
+### 経歴
 - 博士 (2020)  
     [熊本大学](https://www.kumamoto-u.ac.jp/) 大学院 自然科学研究科  
     情報電気電子工学専攻 卒業予定  
