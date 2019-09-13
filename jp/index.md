@@ -44,9 +44,9 @@ Takato Honda: <u>``TrailMarker: Automatic Mining of Geographical Complex Sequenc
 </details><br>
 
 ### 受賞/賞金獲得など
-- \[2015年 - 2020年\]: 授業料免除 (全額)  
+- \[2015年- 2020年\]: 授業料免除 (全額)  
 - \[2019年 9月\]: WebDBフォーラム 2019 富士通賞 (ポスター)  
-- \[2017年 5月\]: 日本学生支援機構 特に優れた業績による返還免除 (全額)  
+- \[2017年 5月\]: 日本学生支援機構 在学中特に優れた業績による返還免除 (全額)  
 - \[2017年 4月\]: 日本学術振興会 特別研究員奨励費 (DC1)  
 - \[2016年 9月\]: 情報処理学会 論文誌 推薦論文選定
 - \[2016年 6月\]: ACM SIGMOD Student Grants  
@@ -60,15 +60,14 @@ Takato Honda: <u>``TrailMarker: Automatic Mining of Geographical Complex Sequenc
 - TOEIC Listening & Reading Test Score 805 (2017/3)  
 
 ### 学歴
-- 高校 (2011)  
-    熊本県立 八代高等学校 卒業  
-- 学士 (2015)  
-    [熊本大学](https://www.kumamoto-u.ac.jp/) 工学部
-    情報電気電子工学科 卒業  
-- 修士 (2017)  
-    [熊本大学](https://www.kumamoto-u.ac.jp/) 大学院 自然科学研究科  
-    情報電気電子工学専攻 卒業  
 - 博士 (2020)  
     [熊本大学](https://www.kumamoto-u.ac.jp/) 大学院 自然科学研究科  
     情報電気電子工学専攻 卒業予定  
-
+- 修士 (2017)  
+    [熊本大学](https://www.kumamoto-u.ac.jp/) 大学院 自然科学研究科  
+    情報電気電子工学専攻 卒業  
+- 学士 (2015)  
+    [熊本大学](https://www.kumamoto-u.ac.jp/) 工学部  
+    情報電気電子工学科 卒業  
+- 高校 (2011)  
+    熊本県立 八代高等学校 卒業  
