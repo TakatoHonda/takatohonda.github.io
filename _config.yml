@@ -2,6 +2,8 @@ title: Takato Honda (本田 崇人)
 logo: /assets/img/prof.jpg
 description: I am a Ph.D. student and JSPS research fellow (DC1) at Osaka University, Japan.
              My research focuses on time-series tensor mining for IoT sensor sequences. <br>
+             <a href="https://takatohonda.github.io">[English:</a>
+             <a href="https://takatohonda.github.io/jp/">[日本語]</a><br>
 show_downloads: false
 google_analytics: UA-146397182-1
 theme: jekyll-theme-minimal

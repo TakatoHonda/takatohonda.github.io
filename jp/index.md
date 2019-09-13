@@ -3,27 +3,29 @@ layout: default
 ---
 
 ### 所属
-[櫻井研究室](https://www.dm.sanken.osaka-u.ac.jp)  
-[産業科学AIセンター](https://www.sanken.osaka-u.ac.jp/organization/ai_center/)  
-[産業科学研究所](https://www.sanken.osaka-u.ac.jp/en/)  
 [大阪大学](https://www.osaka-u.ac.jp/en/index.html)  
+[産業科学研究所](https://www.sanken.osaka-u.ac.jp/en/)  
+[産業科学AIセンター](https://www.sanken.osaka-u.ac.jp/organization/ai_center/)  
+[櫻井研究室](https://www.dm.sanken.osaka-u.ac.jp)  
 〒567-0047  
 大阪府茨木市美穂が丘8-1  
 
 連絡先: <takato88@sanken.osaka-u.ac.jp>  
 
 ### 学歴
-- Ph.D. (expected in 2020)  
-    [熊本大学](https://www.kumamoto-u.ac.jp/) 大学院 自然科学研究科  
-    情報電気電子工学専攻 卒業予定  
-- M.Sc. (2017)  
-    [熊本大学](https://www.kumamoto-u.ac.jp/) 大学院 自然科学研究科  
-    情報電気電子工学専攻 卒業  
-- B.Sc. (2015)  
+- 高校 (2011)  
+    熊本県立 八代高等学校 卒業  
+- 学士 (2015)  
     [熊本大学](https://www.kumamoto-u.ac.jp/) 工学部
     情報電気電子工学科 卒業  
+- 修士 (2017)  
+    [熊本大学](https://www.kumamoto-u.ac.jp/) 大学院 自然科学研究科  
+    情報電気電子工学専攻 卒業  
+- 博士 (2020)  
+    [熊本大学](https://www.kumamoto-u.ac.jp/) 大学院 自然科学研究科  
+    情報電気電子工学専攻 卒業予定  
 
-### 国際会議
+### 国際会議（抜粋）
 <details>
 <summary>
 Multi-Aspect Mining of Complex Sensor Sequences (ICDM'19)<br>
@@ -64,4 +66,6 @@ Takato Honda: <u>``TrailMarker: Automatic Mining of Geographical Complex Sequenc
 - \[2016年 6月\]: 日揮実吉奨学金  採択
 - \[2016年 4月\]: 中董奨学金  採択
 - \[2015年 11月\]: WebDB Forum 2015 最優秀論文賞  
-- \[2015年 11月\]: WebDB Forum 2015 学生奨励賞
+- \[2015年 11月\]: WebDB Forum 2015 学生奨励賞  
+
+
