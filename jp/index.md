@@ -3,11 +3,9 @@ layout: default
 ---
 
 ### 本田 崇人（ほんだ たかと）
-[所属](#所属)
-[論文](#国際会議（抜粋）)
-[受賞](#受賞/賞金獲得など)
-[スキル](#スキル)
-[経歴](#)
+日本学術振興会 特別研究員 (DC1)  
+[車両走行データ解析](https://www.dm.sanken.osaka-u.ac.jp/industry/project_vehicle/)  
+[AI/IoT/スマート工場プロジェクト](https://www.dm.sanken.osaka-u.ac.jp/industry/project_smart/)  
 
 ### 所属
 [大阪大学](https://www.osaka-u.ac.jp/en/index.html)  
