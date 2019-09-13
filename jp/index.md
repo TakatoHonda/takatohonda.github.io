@@ -57,9 +57,9 @@ Takato Honda: <u>``TrailMarker: Automatic Mining of Geographical Complex Sequenc
 
 ### スキル
 - Python, C, C++, MATLAB  
-- TOEIC Listening & Reading Test Score 805 (2017/3)  
+- TOEIC Listening & Reading Test Score 805 (2017年 3月)  
 
-### 学歴
+### 履歴
 - 博士 (2020)  
     [熊本大学](https://www.kumamoto-u.ac.jp/) 大学院 自然科学研究科  
     情報電気電子工学専攻 卒業予定  
