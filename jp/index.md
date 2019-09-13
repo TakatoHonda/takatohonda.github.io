@@ -12,19 +12,6 @@ layout: default
 
 連絡先: <takato88@sanken.osaka-u.ac.jp>  
 
-### 学歴
-- 高校 (2011)  
-    熊本県立 八代高等学校 卒業  
-- 学士 (2015)  
-    [熊本大学](https://www.kumamoto-u.ac.jp/) 工学部
-    情報電気電子工学科 卒業  
-- 修士 (2017)  
-    [熊本大学](https://www.kumamoto-u.ac.jp/) 大学院 自然科学研究科  
-    情報電気電子工学専攻 卒業  
-- 博士 (2020)  
-    [熊本大学](https://www.kumamoto-u.ac.jp/) 大学院 自然科学研究科  
-    情報電気電子工学専攻 卒業予定  
-
 ### 国際会議（抜粋）
 <details>
 <summary>
@@ -71,3 +58,17 @@ Takato Honda: <u>``TrailMarker: Automatic Mining of Geographical Complex Sequenc
 ### スキル
 - Python, C, C++, MATLAB  
 - TOEIC Listening & Reading Test Score 805 (2017/3)  
+
+### 学歴
+- 高校 (2011)  
+    熊本県立 八代高等学校 卒業  
+- 学士 (2015)  
+    [熊本大学](https://www.kumamoto-u.ac.jp/) 工学部
+    情報電気電子工学科 卒業  
+- 修士 (2017)  
+    [熊本大学](https://www.kumamoto-u.ac.jp/) 大学院 自然科学研究科  
+    情報電気電子工学専攻 卒業  
+- 博士 (2020)  
+    [熊本大学](https://www.kumamoto-u.ac.jp/) 大学院 自然科学研究科  
+    情報電気電子工学専攻 卒業予定  
+
