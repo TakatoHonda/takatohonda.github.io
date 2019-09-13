@@ -15,7 +15,7 @@ Mihogaoka 8-1, Ibaraki, Osaka 567-0047, Japan
 
 ### Projects
 [Vehicle Sensor Analysis](https://www.dm.sanken.osaka-u.ac.jp/industry/project_vehicle/)  
-[AI/IoT/Smart Factory Project](https://www.dm.sanken.osaka-u.ac.jp/industry/project_smart/)  
+[Smart Factory Project](https://www.dm.sanken.osaka-u.ac.jp/industry/project_smart/)  
 
 ### Publications (International, Selected)
 <details>

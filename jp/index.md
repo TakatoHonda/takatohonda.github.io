@@ -17,7 +17,7 @@ layout: default
 
 ### プロジェクト
 [車両走行データ解析](https://www.dm.sanken.osaka-u.ac.jp/industry/project_vehicle/)  
-[AI/IoT/スマート工場プロジェクト](https://www.dm.sanken.osaka-u.ac.jp/industry/project_smart/)  
+[スマート工場プロジェクト](https://www.dm.sanken.osaka-u.ac.jp/industry/project_smart/)  
 
 ### 国際会議（抜粋）
 <details>
