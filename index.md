@@ -4,8 +4,7 @@ layout: default
 
 ### Takato Honda
 I am a Ph.D. student and JSPS research fellow (DC1) at Osaka University, Japan. My research focuses on time-series tensor mining for IoT sensor sequences.  
-[Vehicle Sensor Analysis](https://www.dm.sanken.osaka-u.ac.jp/industry/project_vehicle/)  
-[AI/IoT/Smart Factory Project](https://www.dm.sanken.osaka-u.ac.jp/industry/project_smart/)  
+Contact me: <takato88@sanken.osaka-u.ac.jp>  
 
 ### Affiliation
 [Sakurai Laboratory](https://www.dm.sanken.osaka-u.ac.jp)  
@@ -13,7 +12,10 @@ I am a Ph.D. student and JSPS research fellow (DC1) at Osaka University, Japan. 
 [The Institute of Scientific and Industrial Research](https://www.sanken.osaka-u.ac.jp/en/)  
 [Osaka University](https://www.osaka-u.ac.jp/en/index.html)  
 Mihogaoka 8-1, Ibaraki, Osaka 567-0047, Japan  
-Contact me: <takato88@sanken.osaka-u.ac.jp>  
+
+### Projects
+[Vehicle Sensor Analysis](https://www.dm.sanken.osaka-u.ac.jp/industry/project_vehicle/)  
+[AI/IoT/Smart Factory Project](https://www.dm.sanken.osaka-u.ac.jp/industry/project_smart/)  
 
 ### Publications (International, Selected)
 <details>

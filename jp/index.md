@@ -4,8 +4,8 @@ layout: default
 
 ### 本田 崇人（ほんだ たかと）
 日本学術振興会 特別研究員 (DC1)  
-[車両走行データ解析](https://www.dm.sanken.osaka-u.ac.jp/industry/project_vehicle/)  
-[AI/IoT/スマート工場プロジェクト](https://www.dm.sanken.osaka-u.ac.jp/industry/project_smart/)  
+大阪大学 産業科学研究所 博士後期課程3年  
+連絡先: <takato88@sanken.osaka-u.ac.jp>  
 
 ### 所属
 [大阪大学](https://www.osaka-u.ac.jp/en/index.html)  
@@ -15,7 +15,9 @@ layout: default
 〒567-0047  
 大阪府茨木市美穂が丘8-1  
 
-連絡先: <takato88@sanken.osaka-u.ac.jp>  
+### プロジェクト
+[車両走行データ解析](https://www.dm.sanken.osaka-u.ac.jp/industry/project_vehicle/)  
+[AI/IoT/スマート工場プロジェクト](https://www.dm.sanken.osaka-u.ac.jp/industry/project_smart/)  
 
 ### 国際会議（抜粋）
 <details>
