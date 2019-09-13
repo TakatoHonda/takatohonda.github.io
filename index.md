@@ -14,8 +14,8 @@ Contact me: <takato88@sanken.osaka-u.ac.jp>
 Mihogaoka 8-1, Ibaraki, Osaka 567-0047, Japan  
 
 ### Projects
-[Vehicle Sensor Analysis](https://www.dm.sanken.osaka-u.ac.jp/industry/project_vehicle/)  
-[Smart Factory Project](https://www.dm.sanken.osaka-u.ac.jp/industry/project_smart/)  
+- [Vehicle Sensor Analysis](https://www.dm.sanken.osaka-u.ac.jp/industry/project_vehicle/)  
+- [Smart Factory Project](https://www.dm.sanken.osaka-u.ac.jp/industry/project_smart/)  
 
 ### Publications (International, Selected)
 <details>
