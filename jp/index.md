@@ -51,7 +51,7 @@ Takato Honda: <u>``TrailMarker: Automatic Mining of Geographical Complex Sequenc
 </details><br>
 
 ### 受賞/賞金獲得など
-- \[2015年- 2020年\]: 授業料免除 (全額)  
+- \[2015年-現在\]: 授業料免除 (全額)  
 - \[2019年 9月\]: WebDBフォーラム 2019 富士通賞 (ポスター)  
 - \[2017年 5月\]: 日本学生支援機構 特に優れた業績による返還免除 (全額)  
 - \[2017年 4月\]: 日本学術振興会 特別研究員奨励費 (DC1)  
