@@ -52,11 +52,12 @@ Takato Honda: <u>``TrailMarker: Automatic Mining of Geographical Complex Sequenc
 
 ### 受賞/賞金獲得など
 - \[2015年-現在\]: 授業料免除 (全額)  
-- \[2019年 9月\]: WebDBフォーラム 2019 富士通賞 (ポスター)  
+- \[2019年 11月\]: IEEE ICDM Student Award  
+- \[2019年 9月\]: WebDBフォーラム 2019 FUJITSU賞  
 - \[2017年 5月\]: 日本学生支援機構 特に優れた業績による返還免除 (全額)  
 - \[2017年 4月\]: 日本学術振興会 特別研究員奨励費 (DC1)  
 - \[2016年 9月\]: 情報処理学会論文誌 推薦論文選定
-- \[2016年 6月\]: ACM SIGMOD Student Grants  
+- \[2016年 6月\]: ACM SIGMOD Student Award  
 - \[2016年 6月\]: 日揮実吉奨学金 採択
 - \[2016年 4月\]: 中董奨学金 採択
 - \[2015年 11月\]: WebDBフォーラム 2015 最優秀論文賞  
@@ -64,7 +65,6 @@ Takato Honda: <u>``TrailMarker: Automatic Mining of Geographical Complex Sequenc
 
 ### スキル
 - Python, C, C++, MATLAB  
-- TOEIC Listening & Reading Test Score 805 (2017年 3月)  
 
 ### 経歴
 - 博士 (2020)  
