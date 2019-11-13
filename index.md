@@ -61,9 +61,6 @@ Takato Honda: <u>``TrailMarker: Automatic Mining of Geographical Complex Sequenc
 - \[Nov. 2015\]: WebDB Forum 2015 Best Paper Award  
 - \[Nov. 2015\]: WebDB Forum 2015 Student Award  
 
-### Skills
-- Python, C, C++, MATLAB  
-
 ### Education
 - Ph.D. (expected in 2020)  
     Graduate School of Science and Technology,  

@@ -63,9 +63,6 @@ Takato Honda: <u>``TrailMarker: Automatic Mining of Geographical Complex Sequenc
 - \[2015年 11月\]: WebDBフォーラム 2015 最優秀論文賞  
 - \[2015年 11月\]: WebDBフォーラム 2015 学生奨励賞  
 
-### スキル
-- Python, C, C++, MATLAB  
-
 ### 経歴
 - 博士 (2020)  
     [熊本大学](https://www.kumamoto-u.ac.jp/) 大学院 自然科学研究科  
