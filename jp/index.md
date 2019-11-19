@@ -19,7 +19,7 @@ layout: default
 - [車両走行データ解析](https://www.dm.sanken.osaka-u.ac.jp/industry/project_vehicle/)  
 - [スマート工場プロジェクト](https://www.dm.sanken.osaka-u.ac.jp/industry/project_smart/)  
 
-### 国際会議（抜粋）
+### 国際会議（査読あり）
 <details>
 <summary>
 Multi-Aspect Mining of Complex Sensor Sequences (ICDM'19)<br>
@@ -27,7 +27,7 @@ Multi-Aspect Mining of Complex Sensor Sequences (ICDM'19)<br>
 <a href="https://github.com/TakatoHonda/CubeMarker">[paper]</a>
 <a href="https://github.com/TakatoHonda/CubeMarker">[slide]</a>
 </summary>
-Takato Honda, Yasuko Matsubara, Ryo Neyama, Mutsumi Abe, Yasushi Sakurai: <u>``Multi-Aspect Mining of Complex Sensor Sequences”</u>, IEEE International Conference on Data Mining (ICDM), Beijing, China, November 8-11, 2019 (Full paper) (Acceptance ratio 9.08%) (to appear).
+Takato Honda, Yasuko Matsubara, Ryo Neyama, Mutsumi Abe, Yasushi Sakurai: <u>``Multi-Aspect Mining of Complex Sensor Sequences”</u>, IEEE International Conference on Data Mining (ICDM), Beijing, China, November 8-11, 2019 (Full paper) (Acceptance ratio 9.08%).
 </details>
 
 <details>
@@ -59,7 +59,7 @@ Takato Honda: <u>``TrailMarker: Automatic Mining of Geographical Complex Sequenc
 <a href="">[slide]</a>
 </summary>
 本田 崇人, 松原 靖子, 川畑 光希, 櫻井 保志: “大規模時系列テンソルによる多角的イベント解析”, 情報処理学会論文誌:データベース, 採択決定済, 2019年12月.
-</details><br>
+</details>
 
 <details>
 <summary>
