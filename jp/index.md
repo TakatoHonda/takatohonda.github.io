@@ -50,10 +50,10 @@ Automatic Mining of Geographical Complex Sequences (SIGMOD'16 Workshop)<br>
 Takato Honda: <u>``TrailMarker: Automatic Mining of Geographical Complex Sequences"</u>, ACM SIGMOD International Conference on Management of Data (SIGMOD), Ph.D. Symposium, San Francisco, USA, June 2016. 
 </details><br>
 
-###国内論文誌（査読あり）
+### 国内論文誌（査読あり）
 <details>
 <summary>
-大規模時系列テンソルによる多角的イベント予測 (TOD84, 採択決定済)<br>
+大規模時系列テンソルによる多角的イベント予測 (TOD84)<br>
 <a href="">[code]</a>
 <a href="">[paper]</a>
 <a href="">[slide]</a>

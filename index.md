@@ -30,7 +30,7 @@ Takato Honda, Yasuko Matsubara, Ryo Neyama, Mutsumi Abe, Yasushi Sakurai: <u>``M
 
 <details>
 <summary>
-Automatic Mining of Large IoT Sensor Tensor (ICDM'18 Ph.D.)<br>
+Automatic Mining of Large IoT Sensor Tensor (ICDM'18 Workshop)<br>
 <a href="https://ieeexplore.ieee.org/document/8637498">[code]</a>
 <a href="https://ieeexplore.ieee.org/document/8637498">[paper]</a>
 <a href="https://ieeexplore.ieee.org/document/8637498">[slide]</a>
@@ -40,7 +40,7 @@ Takato Honda, Yasuko Matsubara, Yasushi Sakurai: <u>``Automatic Mining of Large 
 
 <details>
 <summary>
-Automatic Mining of Geographical Complex Sequences (SIGMOD'16 Ph.D.)<br>
+Automatic Mining of Geographical Complex Sequences (SIGMOD'16 Workshop)<br>
 <a href="https://dl.acm.org/citation.cfm?doid=2926693.2929903">[code]</a>
 <a href="https://dl.acm.org/citation.cfm?doid=2926693.2929903">[paper]</a>
 <a href="https://dl.acm.org/citation.cfm?doid=2926693.2929903">[slide]</a>
