@@ -24,8 +24,8 @@ layout: default
 <summary>
 Multi-Aspect Mining of Complex Sensor Sequences (ICDM'19)<br>
 <a href="https://github.com/TakatoHonda/CubeMarker">[code]</a>
-<a href="https://github.com/TakatoHonda/CubeMarker">[paper]</a>
-<a href="https://github.com/TakatoHonda/CubeMarker">[slide]</a>
+<a href="https://takatohonda.github.io/paper/paper-icdm19.pdf">[paper]</a>
+<a href="https://takatohonda.github.io/slide/slide-icdm19.pdf">[slide]</a>
 </summary>
 Takato Honda, Yasuko Matsubara, Ryo Neyama, Mutsumi Abe, Yasushi Sakurai: <u>``Multi-Aspect Mining of Complex Sensor Sequences”</u>, IEEE International Conference on Data Mining (ICDM), Beijing, China, November 8-11, 2019 (Full paper) (Acceptance ratio 9.08%).
 </details>
