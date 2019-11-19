@@ -30,7 +30,7 @@ Takato Honda, Yasuko Matsubara, Ryo Neyama, Mutsumi Abe, Yasushi Sakurai: <u>``M
 
 <details>
 <summary>
-Automatic Mining of Large IoT Sensor Tensor (ICDM'18)<br>
+Automatic Mining of Large IoT Sensor Tensor (ICDM'18 Ph.D.)<br>
 <a href="https://ieeexplore.ieee.org/document/8637498">[code]</a>
 <a href="https://ieeexplore.ieee.org/document/8637498">[paper]</a>
 <a href="https://ieeexplore.ieee.org/document/8637498">[slide]</a>
@@ -40,7 +40,7 @@ Takato Honda, Yasuko Matsubara, Yasushi Sakurai: <u>``Automatic Mining of Large 
 
 <details>
 <summary>
-Automatic Mining of Geographical Complex Sequences (SIGMOD'16)<br>
+Automatic Mining of Geographical Complex Sequences (SIGMOD'16 Ph.D.)<br>
 <a href="https://dl.acm.org/citation.cfm?doid=2926693.2929903">[code]</a>
 <a href="https://dl.acm.org/citation.cfm?doid=2926693.2929903">[paper]</a>
 <a href="https://dl.acm.org/citation.cfm?doid=2926693.2929903">[slide]</a>
@@ -48,18 +48,21 @@ Automatic Mining of Geographical Complex Sequences (SIGMOD'16)<br>
 Takato Honda: <u>``TrailMarker: Automatic Mining of Geographical Complex Sequences"</u>, ACM SIGMOD International Conference on Management of Data (SIGMOD), Ph.D. Symposium, San Francisco, USA, June 2016. 
 </details><br>
 
-### Awards/Grants
-- \[2015-2020\]: Tuition Fee Exemption (Full)  
+### Awards
 - \[Nov. 2019\]: IEEE ICDM Student Award  
 - \[Sep. 2019\]: WebDB Forum 2019 FUJITSU Award  
-- \[May  2017\]: JASSO Repayment Exemption (Full)  
-- \[Apr. 2017\]: Grant-in-Aid for JSPS Fellows (DC1)  
 - \[Sep. 2016\]: IPSJ TOD Recommended Paper  
 - \[Jun. 2016\]: ACM SIGMOD Student Award  
-- \[Jun. 2016\]: JGC-S Grants  
-- \[Apr. 2016\]: NAKATO Grants  
 - \[Nov. 2015\]: WebDB Forum 2015 Best Paper Award  
 - \[Nov. 2015\]: WebDB Forum 2015 Student Award  
+
+### Others (Grants etc.)
+- \[2015-2020\]: Tuition Fee Exemption (Full)  
+- \[May  2017\]: JASSO Repayment Exemption (Full)  
+- \[Apr. 2017\]: Grant-in-Aid for JSPS Fellows (DC1)  
+- \[Jun. 2016\]: JGC-S Grants  
+- \[Apr. 2016\]: NAKATO Grants  
+Thank you for your numerous support of me.
 
 ### Skills
 - Python, C, C++, MATLAB  

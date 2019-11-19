@@ -32,7 +32,7 @@ Takato Honda, Yasuko Matsubara, Ryo Neyama, Mutsumi Abe, Yasushi Sakurai: <u>``M
 
 <details>
 <summary>
-Automatic Mining of Large IoT Sensor Tensor (ICDM'18)<br>
+Automatic Mining of Large IoT Sensor Tensor (ICDM'18 Workshop)<br>
 <a href="https://ieeexplore.ieee.org/document/8637498">[code]</a>
 <a href="https://ieeexplore.ieee.org/document/8637498">[paper]</a>
 <a href="https://ieeexplore.ieee.org/document/8637498">[slide]</a>
@@ -42,7 +42,7 @@ Takato Honda, Yasuko Matsubara, Yasushi Sakurai: <u>``Automatic Mining of Large 
 
 <details>
 <summary>
-Automatic Mining of Geographical Complex Sequences (SIGMOD'16)<br>
+Automatic Mining of Geographical Complex Sequences (SIGMOD'16 Workshop)<br>
 <a href="https://dl.acm.org/citation.cfm?doid=2926693.2929903">[code]</a>
 <a href="https://dl.acm.org/citation.cfm?doid=2926693.2929903">[paper]</a>
 <a href="https://dl.acm.org/citation.cfm?doid=2926693.2929903">[slide]</a>
@@ -50,18 +50,42 @@ Automatic Mining of Geographical Complex Sequences (SIGMOD'16)<br>
 Takato Honda: <u>``TrailMarker: Automatic Mining of Geographical Complex Sequences"</u>, ACM SIGMOD International Conference on Management of Data (SIGMOD), Ph.D. Symposium, San Francisco, USA, June 2016. 
 </details><br>
 
-### 受賞/賞金獲得など
-- \[2015年-現在\]: 授業料免除 (全額)  
+###国内論文誌（査読あり）
+<details>
+<summary>
+大規模時系列テンソルによる多角的イベント予測 (TOD84, 採択決定済)<br>
+<a href="">[code]</a>
+<a href="">[paper]</a>
+<a href="">[slide]</a>
+</summary>
+本田 崇人, 松原 靖子, 川畑 光希, 櫻井 保志: “大規模時系列テンソルによる多角的イベント解析”, 情報処理学会論文誌:データベース, 採択決定済, 2019年12月.
+</details><br>
+
+<details>
+<summary>
+車両走行センサデータからの自動パターン検出 (TOD70)<br>
+<a href="">[code]</a>
+<a href="https://ipsj.ixsq.nii.ac.jp/ej/?action=pages_view_main&active_action=repository_view_main_item_detail&item_id=174796&item_no=1&page_id=13&block_id=8">[paper]</a>
+<a href="">[slide]</a>
+</summary>
+本田 崇人, 松原 靖子, 根山 亮, 櫻井 保志: “車両走行センサデータからの自動パターン検出”, 情報処理学会論文誌:データベース, Vol. 9, No. 3, pp. 1-13, 2016年9月.
+</details><br>
+
+### 受賞など
 - \[2019年 11月\]: IEEE ICDM Student Award  
 - \[2019年 9月\]: WebDBフォーラム 2019 FUJITSU賞  
-- \[2017年 5月\]: 日本学生支援機構 特に優れた業績による返還免除 (全額)  
 - \[2017年 4月\]: 日本学術振興会 特別研究員奨励費 (DC1)  
-- \[2016年 9月\]: 情報処理学会論文誌 推薦論文選定
+- \[2016年 9月\]: 情報処理学会論文誌 推薦論文選定  
 - \[2016年 6月\]: ACM SIGMOD Student Award  
-- \[2016年 6月\]: 日揮実吉奨学金 採択
-- \[2016年 4月\]: 中董奨学金 採択
 - \[2015年 11月\]: WebDBフォーラム 2015 最優秀論文賞  
 - \[2015年 11月\]: WebDBフォーラム 2015 学生奨励賞  
+
+### その他（奨学金など）
+- \[2015年-現在\]: 授業料免除 (全額)  
+- \[2017年 5月\]: 日本学生支援機構 特に優れた業績による返還免除 (全額)  
+- \[2016年 6月\]: 日揮実吉奨学金 採択  
+- \[2016年 4月\]: 中董奨学金 採択  
+ご支援に深くお礼申し上げます．  
 
 ### スキル
 - Python, C, C++, MATLAB  
