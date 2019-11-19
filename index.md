@@ -17,7 +17,7 @@ Mihogaoka 8-1, Ibaraki, Osaka 567-0047, Japan
 - [Vehicle Sensor Analysis](https://www.dm.sanken.osaka-u.ac.jp/industry/project_vehicle/)  
 - [Smart Factory Project](https://www.dm.sanken.osaka-u.ac.jp/industry/project_smart/)  
 
-### Publications (selected)
+### Conferences (selected)
 <details>
 <summary>
 Multi-Aspect Mining of Complex Sensor Sequences (ICDM'19)<br>
@@ -31,9 +31,7 @@ Takato Honda, Yasuko Matsubara, Ryo Neyama, Mutsumi Abe, Yasushi Sakurai: <u>``M
 <details>
 <summary>
 Automatic Mining of Large IoT Sensor Tensor (ICDM'18 Workshop)<br>
-<a href="https://ieeexplore.ieee.org/document/8637498">[code]</a>
 <a href="https://ieeexplore.ieee.org/document/8637498">[paper]</a>
-<a href="https://ieeexplore.ieee.org/document/8637498">[slide]</a>
 </summary>
 Takato Honda, Yasuko Matsubara, Yasushi Sakurai: <u>``Automatic Mining of Large IoT Sensor Tensor"</u>, IEEE International Conference on Data Mining (ICDM) Ph.D. Forum, Singapore, November 17-20, 2018.
 </details>
@@ -41,9 +39,7 @@ Takato Honda, Yasuko Matsubara, Yasushi Sakurai: <u>``Automatic Mining of Large 
 <details>
 <summary>
 Automatic Mining of Geographical Complex Sequences (SIGMOD'16 Workshop)<br>
-<a href="https://dl.acm.org/citation.cfm?doid=2926693.2929903">[code]</a>
 <a href="https://dl.acm.org/citation.cfm?doid=2926693.2929903">[paper]</a>
-<a href="https://dl.acm.org/citation.cfm?doid=2926693.2929903">[slide]</a>
 </summary>
 Takato Honda: <u>``TrailMarker: Automatic Mining of Geographical Complex Sequences"</u>, ACM SIGMOD International Conference on Management of Data (SIGMOD), Ph.D. Symposium, San Francisco, USA, June 2016. 
 </details><br>
