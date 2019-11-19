@@ -33,9 +33,7 @@ Takato Honda, Yasuko Matsubara, Ryo Neyama, Mutsumi Abe, Yasushi Sakurai: <u>``M
 <details>
 <summary>
 Automatic Mining of Large IoT Sensor Tensor (ICDM'18 Workshop)<br>
-<a href="https://ieeexplore.ieee.org/document/8637498">[code]</a>
 <a href="https://ieeexplore.ieee.org/document/8637498">[paper]</a>
-<a href="https://ieeexplore.ieee.org/document/8637498">[slide]</a>
 </summary>
 Takato Honda, Yasuko Matsubara, Yasushi Sakurai: <u>``Automatic Mining of Large IoT Sensor Tensor"</u>, IEEE International Conference on Data Mining (ICDM) Ph.D. Forum, Singapore, November 17-20, 2018.
 </details>
@@ -43,9 +41,7 @@ Takato Honda, Yasuko Matsubara, Yasushi Sakurai: <u>``Automatic Mining of Large 
 <details>
 <summary>
 Automatic Mining of Geographical Complex Sequences (SIGMOD'16 Workshop)<br>
-<a href="https://dl.acm.org/citation.cfm?doid=2926693.2929903">[code]</a>
 <a href="https://dl.acm.org/citation.cfm?doid=2926693.2929903">[paper]</a>
-<a href="https://dl.acm.org/citation.cfm?doid=2926693.2929903">[slide]</a>
 </summary>
 Takato Honda: <u>``TrailMarker: Automatic Mining of Geographical Complex Sequences"</u>, ACM SIGMOD International Conference on Management of Data (SIGMOD), Ph.D. Symposium, San Francisco, USA, June 2016. 
 </details><br>
@@ -54,19 +50,15 @@ Takato Honda: <u>``TrailMarker: Automatic Mining of Geographical Complex Sequenc
 <details>
 <summary>
 大規模時系列テンソルによる多角的イベント予測 (TOD84)<br>
-<a href="">[code]</a>
-<a href="">[paper]</a>
-<a href="">[slide]</a>
+<a href="">[paper (to appear)]</a>
 </summary>
-本田 崇人, 松原 靖子, 川畑 光希, 櫻井 保志: “大規模時系列テンソルによる多角的イベント解析”, 情報処理学会論文誌:データベース, 採択決定済, 2019年12月.
+本田 崇人, 松原 靖子, 川畑 光希, 櫻井 保志: “大規模時系列テンソルによる多角的イベント予測”, 情報処理学会論文誌:データベース, 採択決定済, 2019年12月.
 </details>
 
 <details>
 <summary>
 車両走行センサデータからの自動パターン検出 (TOD70)<br>
-<a href="">[code]</a>
 <a href="https://ipsj.ixsq.nii.ac.jp/ej/?action=pages_view_main&active_action=repository_view_main_item_detail&item_id=174796&item_no=1&page_id=13&block_id=8">[paper]</a>
-<a href="">[slide]</a>
 </summary>
 本田 崇人, 松原 靖子, 根山 亮, 櫻井 保志: “車両走行センサデータからの自動パターン検出”, 情報処理学会論文誌:データベース, Vol. 9, No. 3, pp. 1-13, 2016年9月.
 </details><br>

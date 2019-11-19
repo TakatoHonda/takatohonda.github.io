@@ -17,13 +17,13 @@ Mihogaoka 8-1, Ibaraki, Osaka 567-0047, Japan
 - [Vehicle Sensor Analysis](https://www.dm.sanken.osaka-u.ac.jp/industry/project_vehicle/)  
 - [Smart Factory Project](https://www.dm.sanken.osaka-u.ac.jp/industry/project_smart/)  
 
-### Publications (International, Selected)
+### Publications (selected)
 <details>
 <summary>
 Multi-Aspect Mining of Complex Sensor Sequences (ICDM'19)<br>
 <a href="https://github.com/TakatoHonda/CubeMarker">[code]</a>
-<a href="https://github.com/TakatoHonda/CubeMarker">[paper]</a>
-<a href="https://github.com/TakatoHonda/CubeMarker">[slide]</a>
+<a href="https://takatohonda.github.io/paper/paper-icdm19.pdf">[paper]</a>
+<a href="https://takatohonda.github.io/slide/slide-icdm19.pdf">[slide]</a>
 </summary>
 Takato Honda, Yasuko Matsubara, Ryo Neyama, Mutsumi Abe, Yasushi Sakurai: <u>``Multi-Aspect Mining of Complex Sensor Sequences”</u>, IEEE International Conference on Data Mining (ICDM), Beijing, China, November 8-11, 2019 (Full paper) (Acceptance ratio 9.08%).
 </details>
@@ -48,7 +48,7 @@ Automatic Mining of Geographical Complex Sequences (SIGMOD'16 Workshop)<br>
 Takato Honda: <u>``TrailMarker: Automatic Mining of Geographical Complex Sequences"</u>, ACM SIGMOD International Conference on Management of Data (SIGMOD), Ph.D. Symposium, San Francisco, USA, June 2016. 
 </details><br>
 
-### Awards etc.
+### Awards
 - \[Nov. 2019\]: IEEE ICDM Student Award  
 - \[Sep. 2019\]: WebDB Forum 2019 FUJITSU Award  
 - \[Apr. 2017\]: Grant-in-Aid for JSPS Fellows (DC1)  
@@ -57,7 +57,7 @@ Takato Honda: <u>``TrailMarker: Automatic Mining of Geographical Complex Sequenc
 - \[Nov. 2015\]: WebDB Forum 2015 Best Paper Award  
 - \[Nov. 2015\]: WebDB Forum 2015 Student Award  
 
-### Grants etc.
+### Grants
 - \[2015-2020\]: Tuition Fee Exemption (Full)  
 - \[May  2017\]: JASSO Repayment Exemption (Full)  
 - \[Jun. 2016\]: JGC-S Grants  
