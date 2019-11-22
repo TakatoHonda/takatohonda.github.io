@@ -65,18 +65,18 @@ Takato Honda: <u>``TrailMarker: Automatic Mining of Geographical Complex Sequenc
 
 ### 受賞など
 - \[2019年 11月\]: IEEE ICDM Student Award  
-- \[2019年 9月\]: WebDBフォーラム 2019 FUJITSU賞  
-- \[2017年 4月\]: 日本学術振興会 特別研究員奨励費 (DC1)  
-- \[2016年 9月\]: 情報処理学会論文誌 推薦論文選定  
+- \[2019年 9月\]: [WebDBフォーラム 2019 FUJITSU賞](https://db-event.jpn.org/webdbf2019/award.html)  
+- \[2017年 4月\]: [日本学術振興会 特別研究員奨励費 (DC1)](https://www.jsps.go.jp/j-pd/pd_gaiyo.html)  
+- \[2016年 9月\]: [情報処理学会論文誌 推薦論文選定](https://ipsj.ixsq.nii.ac.jp/ej/?action=pages_view_main&active_action=repository_view_main_item_detail&item_id=174796&item_no=1&page_id=13&block_id=8)  
 - \[2016年 6月\]: ACM SIGMOD Student Award  
-- \[2015年 11月\]: WebDBフォーラム 2015 最優秀論文賞  
-- \[2015年 11月\]: WebDBフォーラム 2015 学生奨励賞  
+- \[2015年 11月\]: [WebDBフォーラム 2015 最優秀論文賞](https://www.ipsj.or.jp/award/webdb-award2.html)  
+- \[2015年 11月\]: [WebDBフォーラム 2015 学生奨励賞](https://db-event.jpn.org/webdbf2015/award.php)  
 
 ### その他（奨学金など）
 - \[2015年-現在\]: 授業料免除 (全額)  
-- \[2017年 5月\]: 日本学生支援機構 特に優れた業績による返還免除 (全額)  
-- \[2016年 6月\]: 日揮実吉奨学金 採択  
-- \[2016年 4月\]: 中董奨学金 採択  
+- \[2017年 5月\]: [日本学生支援機構 特に優れた業績による返還免除](https://www.jasso.go.jp/shogakukin/taiyochu/gyosekimenjyo/index.html) (全額)  
+- \[2016年 6月\]: [日揮実吉奨学金](http://www.jgcs.or.jp) 採択  
+- \[2016年 4月\]: [中董奨学金](https://www.nakashima-foundation.org/scholarship/) 採択  
 ご支援に深くお礼申し上げます．  
 
 ### スキル

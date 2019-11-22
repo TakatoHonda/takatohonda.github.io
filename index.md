@@ -46,18 +46,18 @@ Takato Honda: <u>``TrailMarker: Automatic Mining of Geographical Complex Sequenc
 
 ### Awards
 - \[Nov. 2019\]: IEEE ICDM Student Award  
-- \[Sep. 2019\]: WebDB Forum 2019 FUJITSU Award  
-- \[Apr. 2017\]: Grant-in-Aid for JSPS Fellows (DC1)  
-- \[Sep. 2016\]: IPSJ TOD Recommended Paper  
+- \[Sep. 2019\]: [WebDB Forum 2019 FUJITSU Award](https://db-event.jpn.org/webdbf2019/award.html)  
+- \[Apr. 2017\]: [Grant-in-Aid for JSPS Fellows (DC1)](https://www.jsps.go.jp/j-pd/pd_gaiyo.html)  
+- \[Sep. 2016\]: [IPSJ TOD Recommended Paper](https://ipsj.ixsq.nii.ac.jp/ej/?action=pages_view_main&active_action=repository_view_main_item_detail&item_id=174796&item_no=1&page_id=13&block_id=8)  
 - \[Jun. 2016\]: ACM SIGMOD Student Award  
-- \[Nov. 2015\]: WebDB Forum 2015 Best Paper Award  
-- \[Nov. 2015\]: WebDB Forum 2015 Student Award  
+- \[Nov. 2015\]: [WebDB Forum 2015 Best Paper Award](https://www.ipsj.or.jp/award/webdb-award2.html)  
+- \[Nov. 2015\]: [WebDB Forum 2015 Student Award](https://db-event.jpn.org/webdbf2015/award.php)  
 
 ### Grants
 - \[2015-2020\]: Tuition Fee Exemption (Full)  
-- \[May  2017\]: JASSO Repayment Exemption (Full)  
-- \[Jun. 2016\]: JGC-S Grants  
-- \[Apr. 2016\]: NAKATO Grants  
+- \[May  2017\]: [JASSO Repayment Exemption](https://www.jasso.go.jp/shogakukin/taiyochu/gyosekimenjyo/index.html) (Full)  
+- \[Jun. 2016\]: [JGC-S](http://www.jgcs.or.jp) Grants  
+- \[Apr. 2016\]: [NAKATO](https://www.nakashima-foundation.org/scholarship/) Grants  
 Thank you for your numerous support of me.
 
 ### Skills
