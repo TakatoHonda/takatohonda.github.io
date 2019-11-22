@@ -55,9 +55,9 @@ Takato Honda: <u>``TrailMarker: Automatic Mining of Geographical Complex Sequenc
 
 ### Grants
 - \[2015-2020\]: Tuition Fee Exemption (Full)  
-- \[May  2017\]: [JASSO Repayment Exemption](https://www.jasso.go.jp/shogakukin/taiyochu/gyosekimenjyo/index.html) (Full)  
-- \[Jun. 2016\]: [JGC-S](http://www.jgcs.or.jp) Grants  
-- \[Apr. 2016\]: [NAKATO](https://www.nakashima-foundation.org/scholarship/) Grants  
+- \[May  2017\]: [JASSO Repayment Exemption (Full)](https://www.jasso.go.jp/shogakukin/taiyochu/gyosekimenjyo/index.html)  
+- \[Jun. 2016\]: [JGC-S Grants](http://www.jgcs.or.jp)  
+- \[Apr. 2016\]: [NAKATO Grants](https://www.nakashima-foundation.org/scholarship/)  
 Thank you for your numerous support of me.
 
 ### Skills

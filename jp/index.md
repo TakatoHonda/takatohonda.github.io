@@ -74,9 +74,9 @@ Takato Honda: <u>``TrailMarker: Automatic Mining of Geographical Complex Sequenc
 
 ### その他（奨学金など）
 - \[2015年-現在\]: 授業料免除 (全額)  
-- \[2017年 5月\]: [日本学生支援機構 特に優れた業績による返還免除](https://www.jasso.go.jp/shogakukin/taiyochu/gyosekimenjyo/index.html) (全額)  
-- \[2016年 6月\]: [日揮実吉奨学金](http://www.jgcs.or.jp) 採択  
-- \[2016年 4月\]: [中董奨学金](https://www.nakashima-foundation.org/scholarship/) 採択  
+- \[2017年 5月\]: [日本学生支援機構 特に優れた業績による返還免除 (全額)](https://www.jasso.go.jp/shogakukin/taiyochu/gyosekimenjyo/index.html)  
+- \[2016年 6月\]: [日揮実吉奨学金 採択](http://www.jgcs.or.jp)  
+- \[2016年 4月\]: [中董奨学金 採択](https://www.nakashima-foundation.org/scholarship/)  
 ご支援に深くお礼申し上げます．  
 
 ### スキル
