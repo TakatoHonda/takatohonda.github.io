@@ -8,9 +8,9 @@ layout: default
 連絡先: <takato88@sanken.osaka-u.ac.jp>  
 
 ### 所属
-[大阪大学](https://www.osaka-u.ac.jp/en/index.html)  
+[大阪大学](https://www.osaka-u.ac.jp/en/index.html)
 [産業科学研究所](https://www.sanken.osaka-u.ac.jp/en/)  
-[産業科学AIセンター](https://www.sanken.osaka-u.ac.jp/organization/ai_center/)  
+[産業科学AIセンター](https://www.sanken.osaka-u.ac.jp/organization/ai_center/)
 [櫻井研究室](https://www.dm.sanken.osaka-u.ac.jp)  
 〒567-0047  
 大阪府茨木市美穂が丘8-1  
@@ -75,8 +75,8 @@ Takato Honda: <u>``TrailMarker: Automatic Mining of Geographical Complex Sequenc
 
 ### 特許
 - \[2020年 1月\]: 時系列解析に基づくイベント予測装置、イベント予測方法およびプログラム  
-                  本田 崇人, 松原 靖子, 川畑 光希, 櫻井 保志  
-                  特願2020-8388  
+    本田 崇人, 松原 靖子, 川畑 光希, 櫻井 保志  
+    特願2020-8388  
 
 
 ### その他（奨学金など）
