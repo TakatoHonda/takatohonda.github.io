@@ -55,9 +55,7 @@ Takato Honda: <u>``TrailMarker: Automatic Mining of Geographical Complex Sequenc
 - \[Nov. 2015\]: [WebDB Forum 2015 Student Award](https://db-event.jpn.org/webdbf2015/award.php)  
 
 ## Patents
-- \[Jan. 2020\]: 時系列解析に基づくイベント予測装置、イベント予測方法およびプログラム  
-    本田 崇人, 松原 靖子, 川畑 光希, 櫻井 保志  
-    特願2020-8388  
+- \[Jan. 2020\]:「時系列解析に基づくイベント予測装置、イベント予測方法およびプログラム」, 本田 崇人, 松原 靖子, 川畑 光希, 櫻井 保志, 特願2020-8388  
 
 ### Grants
 - \[2015-2020\]: Tuition Fee Exemption (Full)  
