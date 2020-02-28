@@ -75,8 +75,8 @@ Takato Honda: <u>``TrailMarker: Automatic Mining of Geographical Complex Sequenc
 
 ### 特許
 - \[2020年 1月\]: 時系列解析に基づくイベント予測装置、イベント予測方法およびプログラム  
-本田 崇人, 松原 靖子, 川畑 光希, 櫻井 保志  
-特願2020-8388  
+                  本田 崇人, 松原 靖子, 川畑 光希, 櫻井 保志  
+                  特願2020-8388  
 
 
 ### その他（奨学金など）
