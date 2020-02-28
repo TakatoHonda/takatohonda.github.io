@@ -17,7 +17,7 @@ Mihogaoka 8-1, Ibaraki, Osaka 567-0047, Japan
 - [Vehicle Sensor Analysis](https://www.dm.sanken.osaka-u.ac.jp/industry/project_vehicle/)  
 - [Smart Factory Project](https://www.dm.sanken.osaka-u.ac.jp/industry/project_smart/)  
 
-### Conferences (selected)
+### Conferences (latest)
 <details>
 <summary>
 Multi-Aspect Mining of Complex Sensor Sequences (ICDM'19)<br>
@@ -25,12 +25,12 @@ Multi-Aspect Mining of Complex Sensor Sequences (ICDM'19)<br>
 <a href="https://takatohonda.github.io/paper/paper-icdm19.pdf">[paper]</a>
 <a href="https://takatohonda.github.io/slide/slide-icdm19.pdf">[slide]</a>
 </summary>
-Takato Honda, Yasuko Matsubara, Ryo Neyama, Mutsumi Abe, Yasushi Sakurai: <u>``Multi-Aspect Mining of Complex Sensor Sequences”</u>, IEEE International Conference on Data Mining (ICDM), Beijing, China, November 8-11, 2019 (Full paper) (Acceptance ratio 9.08%).
+Takato Honda, Yasuko Matsubara, Ryo Neyama, Mutsumi Abe, Yasushi Sakurai: <u>``Multi-Aspect Mining of Complex Sensor Sequences”</u>, IEEE International Conference on Data Mining (ICDM), pp. 299-308, Beijing, China, November 8-11, 2019 (Regular paper) (Acceptance ratio 9.08%).
 </details>
 
-<details>
+<!-- <details>
 <summary>
-Automatic Mining of Large IoT Sensor Tensor (ICDM'18 Workshop)<br>
+Automatic Mining of Large IoT Sensor Tensor (ICDMW'18 Workshop)<br>
 <a href="https://ieeexplore.ieee.org/document/8637498">[paper]</a>
 </summary>
 Takato Honda, Yasuko Matsubara, Yasushi Sakurai: <u>``Automatic Mining of Large IoT Sensor Tensor"</u>, IEEE International Conference on Data Mining (ICDM) Ph.D. Forum, Singapore, November 17-20, 2018.
@@ -42,16 +42,22 @@ Automatic Mining of Geographical Complex Sequences (SIGMOD'16 Workshop)<br>
 <a href="https://dl.acm.org/citation.cfm?doid=2926693.2929903">[paper]</a>
 </summary>
 Takato Honda: <u>``TrailMarker: Automatic Mining of Geographical Complex Sequences"</u>, ACM SIGMOD International Conference on Management of Data (SIGMOD), Ph.D. Symposium, San Francisco, USA, June 2016. 
-</details><br>
+</details>
+ --><br>
 
 ### Awards
-- \[Nov. 2019\]: IEEE ICDM Student Award  
+- \[Nov. 2019\]: [IEEE ICDM Student Award](https://takatohonda.github.io)  
 - \[Sep. 2019\]: [WebDB Forum 2019 FUJITSU Award](https://db-event.jpn.org/webdbf2019/award.html)  
 - \[Apr. 2017\]: [Grant-in-Aid for JSPS Fellows (DC1)](https://www.jsps.go.jp/j-pd/pd_gaiyo.html)  
 - \[Sep. 2016\]: [IPSJ TOD Recommended Paper](https://ipsj.ixsq.nii.ac.jp/ej/?action=pages_view_main&active_action=repository_view_main_item_detail&item_id=174796&item_no=1&page_id=13&block_id=8)  
-- \[Jun. 2016\]: ACM SIGMOD Student Award  
+- \[Jun. 2016\]: [ACM SIGMOD Student Award](https://takatohonda.github.io)  
 - \[Nov. 2015\]: [WebDB Forum 2015 Best Paper Award](https://www.ipsj.or.jp/award/webdb-award2.html)  
 - \[Nov. 2015\]: [WebDB Forum 2015 Student Award](https://db-event.jpn.org/webdbf2015/award.php)  
+
+## Patents
+- \[Jan. 2020\]: 時系列解析に基づくイベント予測装置、イベント予測方法およびプログラム  
+本田 崇人, 松原 靖子, 川畑 光希, 櫻井 保志  
+特願2020-8388  
 
 ### Grants
 - \[2015-2020\]: Tuition Fee Exemption (Full)  

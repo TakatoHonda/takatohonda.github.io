@@ -19,7 +19,7 @@ layout: default
 - [車両走行データ解析](https://www.dm.sanken.osaka-u.ac.jp/industry/project_vehicle/)  
 - [スマート工場プロジェクト](https://www.dm.sanken.osaka-u.ac.jp/industry/project_smart/)  
 
-### 国際会議（査読あり）
+### 国際会議（最新）
 <details>
 <summary>
 Multi-Aspect Mining of Complex Sensor Sequences (ICDM'19)<br>
@@ -27,10 +27,10 @@ Multi-Aspect Mining of Complex Sensor Sequences (ICDM'19)<br>
 <a href="https://takatohonda.github.io/paper/paper-icdm19.pdf">[paper]</a>
 <a href="https://takatohonda.github.io/slide/slide-icdm19.pdf">[slide]</a>
 </summary>
-Takato Honda, Yasuko Matsubara, Ryo Neyama, Mutsumi Abe, Yasushi Sakurai: <u>``Multi-Aspect Mining of Complex Sensor Sequences”</u>, IEEE International Conference on Data Mining (ICDM), Beijing, China, November 8-11, 2019 (Full paper) (Acceptance ratio 9.08%).
+Takato Honda, Yasuko Matsubara, Ryo Neyama, Mutsumi Abe, Yasushi Sakurai: <u>``Multi-Aspect Mining of Complex Sensor Sequences”</u>, IEEE International Conference on Data Mining (ICDM), pp. 299-308, Beijing, China, November 8-11, 2019 (Regular paper) (Acceptance ratio 9.08%).
 </details>
 
-<details>
+<!-- <details>
 <summary>
 Automatic Mining of Large IoT Sensor Tensor (ICDM'18 Workshop)<br>
 <a href="https://ieeexplore.ieee.org/document/8637498">[paper]</a>
@@ -44,15 +44,16 @@ Automatic Mining of Geographical Complex Sequences (SIGMOD'16 Workshop)<br>
 <a href="https://dl.acm.org/citation.cfm?doid=2926693.2929903">[paper]</a>
 </summary>
 Takato Honda: <u>``TrailMarker: Automatic Mining of Geographical Complex Sequences"</u>, ACM SIGMOD International Conference on Management of Data (SIGMOD), Ph.D. Symposium, San Francisco, USA, June 2016. 
-</details><br>
+</details> -->
+<br>
 
-### 国内論文誌（査読あり）
+### 国内論文誌（抜粋）
 <details>
 <summary>
 大規模時系列テンソルによる多角的イベント予測 (TOD84)<br>
-<a href="">[paper (to appear)]</a>
+<a href="https://ipsj.ixsq.nii.ac.jp/ej/index.php?active_action=repository_view_main_item_detail&page_id=13&block_id=8&item_id=202955&item_no=1">[paper]</a>
 </summary>
-本田 崇人, 松原 靖子, 川畑 光希, 櫻井 保志: “大規模時系列テンソルによる多角的イベント予測”, 情報処理学会論文誌:データベース, 採択決定済, 2019年12月.
+本田 崇人, 松原 靖子, 川畑 光希, 櫻井 保志: “大規模時系列テンソルによる多角的イベント予測”, 情報処理学会論文誌:データベース, Vol. 13, No. 1, pp. 8-19, 2020年1月.
 </details>
 
 <details>
@@ -64,13 +65,19 @@ Takato Honda: <u>``TrailMarker: Automatic Mining of Geographical Complex Sequenc
 </details><br>
 
 ### 受賞など
-- \[2019年 11月\]: IEEE ICDM Student Award  
+- \[2019年 11月\]: [IEEE ICDM Student Award](https://takatohonda.github.io/jp)  
 - \[2019年 9月\]: [WebDBフォーラム 2019 FUJITSU賞](https://db-event.jpn.org/webdbf2019/award.html)  
 - \[2017年 4月\]: [日本学術振興会 特別研究員奨励費 (DC1)](https://www.jsps.go.jp/j-pd/pd_gaiyo.html)  
 - \[2016年 9月\]: [情報処理学会論文誌 推薦論文選定](https://ipsj.ixsq.nii.ac.jp/ej/?action=pages_view_main&active_action=repository_view_main_item_detail&item_id=174796&item_no=1&page_id=13&block_id=8)  
-- \[2016年 6月\]: ACM SIGMOD Student Award  
+- \[2016年 6月\]: [ACM SIGMOD Student Award](https://takatohonda.github.io/jp)  
 - \[2015年 11月\]: [WebDBフォーラム 2015 最優秀論文賞](https://www.ipsj.or.jp/award/webdb-award2.html)  
 - \[2015年 11月\]: [WebDBフォーラム 2015 学生奨励賞](https://db-event.jpn.org/webdbf2015/award.php)  
+
+### 特許
+- \[2020年 1月\]: 時系列解析に基づくイベント予測装置、イベント予測方法およびプログラム  
+本田 崇人, 松原 靖子, 川畑 光希, 櫻井 保志  
+特願2020-8388  
+
 
 ### その他（奨学金など）
 - \[2015年-現在\]: 授業料免除 (全額)  
