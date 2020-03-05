@@ -3,7 +3,11 @@ layout: default
 ---
 
 ### Takato Honda
-I am a Ph.D. student and JSPS research fellow (DC1) at Osaka University, Japan. My research focuses on time-series tensor mining for IoT sensor sequences.  
+<!-- 
+I am a specially appointed assistant professor at Osaka University, Japan.
+ -->
+I am a Ph.D. student and JSPS research fellow (DC1) at Osaka University, Japan.
+My research focuses on time-series tensor mining for IoT sensor sequences.  
 Contact me: <takato88@sanken.osaka-u.ac.jp>  
 
 ### Affiliation
@@ -47,7 +51,6 @@ Takato Honda: <u>``TrailMarker: Automatic Mining of Geographical Complex Sequenc
 
 ### Awards
 <!-- 
-- \[Mar. 2020\]: Representative Student (Kumamoto University)
 - \[Mar. 2020\]: Excellent Student Award (Kumamoto University)
 -->
 - \[Mar. 2020\]: [DEIM 2020 Online Presentation Award](https://db-event.jpn.org/deim2020/post/awards.html)
@@ -69,20 +72,28 @@ Takato Honda: <u>``TrailMarker: Automatic Mining of Geographical Complex Sequenc
 - \[Apr. 2016\]: [NAKATO Grants](https://www.nakashima-foundation.org/scholarship/)  
 Thank you for your numerous support of me.
 
+<!-- 
 ### Skills
 - Python, C, C++, MATLAB  
+-->
+ 
+### Experiences
+<!-- 
+- \[2020 - \]: Specially appointed assistant professor at Osaka University  
+ -->
+- \[2017 - 2020\]: JSPS research fellow, DC1 (SV: [Yasushi Sakurai](https://www.dm.sanken.osaka-u.ac.jp/~yasushi/))
 
 ### Education
-- Ph.D. (expected in 2020)  
+- Ph.D. (2020)  
     Graduate School of Science and Technology,  
     Computer Science and Electrical Engineering,  
-    [Kumamoto University](https://www.kumamoto-u.ac.jp/)
+    [Kumamoto University](https://www.kumamoto-u.ac.jp/)  
 - M.Sc. (2017)  
     Graduate School of Science and Technology,  
     Computer Science and Electrical Engineering,  
-    [Kumamoto University](https://www.kumamoto-u.ac.jp/)
+    [Kumamoto University](https://www.kumamoto-u.ac.jp/)  
 - B.Sc. (2015)  
     Department of Computer Science and Electrical Engineering,  
-    [Kumamoto University](https://www.kumamoto-u.ac.jp/)
+    [Kumamoto University](https://www.kuzmamoto-u.ac.jp/)  
 
 
