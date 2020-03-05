@@ -63,7 +63,7 @@ Takato Honda: <u>``TrailMarker: Automatic Mining of Geographical Complex Sequenc
 - \[Jan. 2020\]:「時系列解析に基づくイベント予測装置、イベント予測方法およびプログラム」, 本田 崇人, 松原 靖子, 川畑 光希, 櫻井 保志, 特願2020-8388  
 
 ### Grants
-- \[2015-2020\]: [Tuition Fee Exemption (Full)](https://takatohonda.github.io) 
+- \[2015-2020\]: [Tuition Fee Exemption (Full, Kumamoto University)](https://takatohonda.github.io) 
 - \[May  2017\]: [JASSO Repayment Exemption (Full)](https://www.jasso.go.jp/shogakukin/taiyochu/gyosekimenjyo/index.html)  
 - \[Jun. 2016\]: [JGC-S Grants](http://www.jgcs.or.jp)  
 - \[Apr. 2016\]: [NAKATO Grants](https://www.nakashima-foundation.org/scholarship/)  
