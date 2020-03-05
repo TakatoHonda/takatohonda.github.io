@@ -81,18 +81,18 @@ Thank you for your numerous support of me.
 <!-- 
 - \[2020 - \]: Specially appointed assistant professor at Osaka University  
  -->
-- \[2017 - 2020\]: JSPS research fellow, DC1 (SV: [Yasushi Sakurai](https://www.dm.sanken.osaka-u.ac.jp/~yasushi/))
+- \[2017-2020\]: JSPS research fellow, DC1 (SV: [Yasushi Sakurai](https://www.dm.sanken.osaka-u.ac.jp/~yasushi/))
 
 ### Education
-- Ph.D. (2020)  
+- \[2017-2020\]: Ph.D.  
     Graduate School of Science and Technology,  
     Computer Science and Electrical Engineering,  
     [Kumamoto University](https://www.kumamoto-u.ac.jp/)  
-- M.Sc. (2017)  
+- \[2015-2017\]: PM.Sc.  
     Graduate School of Science and Technology,  
     Computer Science and Electrical Engineering,  
     [Kumamoto University](https://www.kumamoto-u.ac.jp/)  
-- B.Sc. (2015)  
+- \[2011-2015\]: PB.Sc.  
     Department of Computer Science and Electrical Engineering,  
     [Kumamoto University](https://www.kuzmamoto-u.ac.jp/)  
 
