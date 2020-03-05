@@ -88,11 +88,11 @@ Thank you for your numerous support of me.
     Graduate School of Science and Technology,  
     Computer Science and Electrical Engineering,  
     [Kumamoto University](https://www.kumamoto-u.ac.jp/)  
-- \[2015-2017\]: PM.Sc.  
+- \[2015-2017\]: M.Sc.  
     Graduate School of Science and Technology,  
     Computer Science and Electrical Engineering,  
     [Kumamoto University](https://www.kumamoto-u.ac.jp/)  
-- \[2011-2015\]: PB.Sc.  
+- \[2011-2015\]: B.Sc.  
     Department of Computer Science and Electrical Engineering,  
     [Kumamoto University](https://www.kuzmamoto-u.ac.jp/)  
 
