@@ -69,7 +69,6 @@ Takato Honda: <u>``TrailMarker: Automatic Mining of Geographical Complex Sequenc
 
 ### 受賞など
 <!-- 
-- \[2020年 3月\]: 熊本大学大学院 総代
 - \[2020年 3月\]: 熊本大学大学院 学業成績優秀者表彰
 -->
 - \[2020年 3月\]: [DEIM 2020 オンラインプレゼンテーション賞](https://db-event.jpn.org/deim2020/post/awards.html)
