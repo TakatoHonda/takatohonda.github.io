@@ -3,12 +3,12 @@ layout: default
 ---
 
 ### 本田 崇人（ほんだ たかと）
-日本学術振興会 特別研究員 (DC1)  
+<!-- 日本学術振興会 特別研究員 (DC1)  
 大阪大学 産業科学研究所 博士後期課程3年  
-<!--
+ -->
 大阪大学 産業科学研究所 特任助教  
--->
-連絡先: <takato88@sanken.osaka-u.ac.jp>  
+
+連絡先: <takato@sanken.osaka-u.ac.jp>  
 
 ### 所属
 [大阪大学](https://www.osaka-u.ac.jp/en/index.html)
@@ -88,7 +88,7 @@ Takato Honda: <u>``TrailMarker: Automatic Mining of Geographical Complex Sequenc
 
 
 ### その他（奨学金など）
-- \[2015年-2020年\]: [熊本大学大学院 授業料免除 (全額)](https://takatohonda.github.io/jp) 
+- \[2015年-2020年\]: [熊本大学 授業料免除 (全額)](https://takatohonda.github.io/jp) 
 - \[2017年 5月\]: [JASSO 特に優れた業績による返還免除 (全額)](https://www.jasso.go.jp/shogakukin/taiyochu/gyosekimenjyo/index.html)  
 - \[2016年 6月\]: [日揮実吉奨学金 採択](http://www.jgcs.or.jp)  
 - \[2016年 4月\]: [中董奨学金 採択](https://www.nakashima-foundation.org/scholarship/)  
@@ -99,9 +99,7 @@ Takato Honda: <u>``TrailMarker: Automatic Mining of Geographical Complex Sequenc
 -->
 
 ### 職歴
-<!-- 
 - \[2020年-現在\]: 大阪大学 産業科学研究所 特任助教
--->
 - \[2017年-2020年\]: 日本学術振興会特別研究員 DC1
 
 ### 学歴

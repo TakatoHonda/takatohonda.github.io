@@ -3,12 +3,12 @@ layout: default
 ---
 
 ### Takato Honda
-<!-- 
+
 I am a specially appointed assistant professor at Osaka University, Japan.
+<!-- I am a Ph.D. student and JSPS research fellow (DC1) at Osaka University, Japan.
  -->
-I am a Ph.D. student and JSPS research fellow (DC1) at Osaka University, Japan.
 My research focuses on time-series tensor mining for IoT sensor sequences.  
-Contact me: <takato88@sanken.osaka-u.ac.jp>  
+Contact me: <takato@sanken.osaka-u.ac.jp>  
 
 ### Affiliation
 [Sakurai Laboratory](https://www.dm.sanken.osaka-u.ac.jp)  
@@ -78,9 +78,8 @@ Thank you for your numerous support of me.
 -->
  
 ### Experiences
-<!-- 
+
 - \[2020 - \]: Specially appointed assistant professor at Osaka University  
- -->
 - \[2017-2020\]: JSPS research fellow, DC1 (SV: [Yasushi Sakurai](https://www.dm.sanken.osaka-u.ac.jp/~yasushi/))
 
 ### Education
