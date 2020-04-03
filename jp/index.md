@@ -7,7 +7,6 @@ layout: default
 大阪大学 産業科学研究所 博士後期課程3年  
  -->
 大阪大学 産業科学研究所 特任助教  
-
 連絡先: <takato@sanken.osaka-u.ac.jp>  
 
 ### 所属
