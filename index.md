@@ -48,9 +48,9 @@ Takato Honda: <u>``TrailMarker: Automatic Mining of Geographical Complex Sequenc
  --><br>
 
 ### Awards
-- \[Mar. 2020\]: [Dean's Award (Kumamoto University)](https://takatohonda.github.io)
-- \[Mar. 2020\]: [Excellent Student Award (Kumamoto University)](https://takatohonda.github.io)
-- \[Mar. 2020\]: [DEIM 2020 Online Presentation Award](https://db-event.jpn.org/deim2020/post/awards.html)
+- \[Mar. 2020\]: [Dean's Award (Kumamoto University)](https://takatohonda.github.io)  
+- \[Mar. 2020\]: [Excellent Student Award (Kumamoto University)](https://takatohonda.github.io)  
+- \[Mar. 2020\]: [DEIM 2020 Online Presentation Award](https://db-event.jpn.org/deim2020/post/awards.html)  
 - \[Nov. 2019\]: [IEEE ICDM Student Award](https://takatohonda.github.io)  
 - \[Sep. 2019\]: [WebDB Forum 2019 FUJITSU Award](https://db-event.jpn.org/webdbf2019/award.html)  
 - \[Sep. 2016\]: [IPSJ TOD Recommended Paper](https://ipsj.ixsq.nii.ac.jp/ej/?action=pages_view_main&active_action=repository_view_main_item_detail&item_id=174796&item_no=1&page_id=13&block_id=8)  
