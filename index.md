@@ -5,8 +5,6 @@ layout: default
 ### Takato Honda
 
 I am a specially appointed assistant professor at Osaka University, Japan.
-<!-- I am a Ph.D. student and JSPS research fellow (DC1) at Osaka University, Japan.
- -->
 My research focuses on time-series tensor mining for IoT sensor sequences.  
 Contact me: <takato@sanken.osaka-u.ac.jp>  
 
@@ -50,13 +48,10 @@ Takato Honda: <u>``TrailMarker: Automatic Mining of Geographical Complex Sequenc
  --><br>
 
 ### Awards
-<!-- 
 - \[Mar. 2020\]: Excellent Student Award (Kumamoto University)
--->
 - \[Mar. 2020\]: [DEIM 2020 Online Presentation Award](https://db-event.jpn.org/deim2020/post/awards.html)
 - \[Nov. 2019\]: [IEEE ICDM Student Award](https://takatohonda.github.io)  
 - \[Sep. 2019\]: [WebDB Forum 2019 FUJITSU Award](https://db-event.jpn.org/webdbf2019/award.html)  
-- \[Apr. 2017\]: [Grant-in-Aid for JSPS Fellows (DC1)](https://www.jsps.go.jp/j-pd/pd_gaiyo.html)  
 - \[Sep. 2016\]: [IPSJ TOD Recommended Paper](https://ipsj.ixsq.nii.ac.jp/ej/?action=pages_view_main&active_action=repository_view_main_item_detail&item_id=174796&item_no=1&page_id=13&block_id=8)  
 - \[Jun. 2016\]: [ACM SIGMOD Student Award](https://takatohonda.github.io)  
 - \[Nov. 2015\]: [WebDB Forum 2015 Best Paper Award](https://www.ipsj.or.jp/award/webdb-award2.html)  
@@ -68,6 +63,7 @@ Takato Honda: <u>``TrailMarker: Automatic Mining of Geographical Complex Sequenc
 ### Grants
 - \[2015-2020\]: [Tuition Fee Exemption (Full, Kumamoto University)](https://takatohonda.github.io) 
 - \[May  2017\]: [JASSO Repayment Exemption (Full)](https://www.jasso.go.jp/shogakukin/taiyochu/gyosekimenjyo/index.html)  
+- \[Apr. 2017\]: [Grant-in-Aid for JSPS Fellows (DC1)](https://www.jsps.go.jp/j-pd/pd_gaiyo.html)  
 - \[Jun. 2016\]: [JGC-S Grants](http://www.jgcs.or.jp)  
 - \[Apr. 2016\]: [NAKATO Grants](https://www.nakashima-foundation.org/scholarship/)  
 Thank you for your numerous support of me.
