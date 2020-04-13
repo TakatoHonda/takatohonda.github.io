@@ -92,7 +92,7 @@ Takato Honda: <u>``TrailMarker: Automatic Mining of Geographical Complex Sequenc
 
 ### 職歴
 - \[2020年-現在\]: 大阪大学 産業科学研究所 特任助教
-- \[2017年-2020年\]: 日本学術振興会特別研究員 DC1
+- \[2017年-2020年\]: 日本学術振興会 特別研究員 (DC1)
 
 ### 学歴
 - \[2017年-2020年\]: 博士  
