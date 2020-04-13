@@ -99,8 +99,8 @@ Takato Honda: <u>``TrailMarker: Automatic Mining of Geographical Complex Sequenc
     [熊本大学](https://www.kumamoto-u.ac.jp/) 大学院 自然科学研究科  
     情報電気電子工学専攻 修了  
     (**自然科学教育部長賞受賞**)
-- \[2019年-2020年\]: 博士  
-    [大阪大学産業科学研究所](https://www.sanken.osaka-u.ac.jp) 特別研究学生  
+- \[2019年-2020年\]: 特別研究学生  
+    [大阪大学産業科学研究所](https://www.sanken.osaka-u.ac.jp)  
 - \[2015年-2017年\]: 修士  
     [熊本大学](https://www.kumamoto-u.ac.jp/) 大学院 自然科学研究科  
     情報電気電子工学専攻 修了  
