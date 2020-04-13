@@ -3,9 +3,6 @@ layout: default
 ---
 
 ### 本田 崇人（ほんだ たかと）
-<!-- 日本学術振興会 特別研究員 (DC1)  
-大阪大学 産業科学研究所 博士後期課程3年  
- -->
 大阪大学 産業科学研究所 特任助教  
 連絡先: <takato@sanken.osaka-u.ac.jp>  
 
@@ -100,9 +97,13 @@ Takato Honda: <u>``TrailMarker: Automatic Mining of Geographical Complex Sequenc
 - \[2017年-2020年\]: 博士  
     [熊本大学](https://www.kumamoto-u.ac.jp/) 大学院 自然科学研究科  
     情報電気電子工学専攻 修了  
+    (**自然科学教育部長賞受賞**)
+- \[2019年-2020年\]: 博士  
+    [大阪大学産業科学研究所](https://www.sanken.osaka-u.ac.jp) 特別研究学生  
 - \[2015年-2017年\]: 修士  
     [熊本大学](https://www.kumamoto-u.ac.jp/) 大学院 自然科学研究科  
     情報電気電子工学専攻 修了  
+    (**特に優れた業績によるJASSO奨学金返還全額免除**)
 - \[2011年-2015年\]: 学士  
     [熊本大学](https://www.kumamoto-u.ac.jp/) 工学部  
     情報電気電子工学科 卒業  

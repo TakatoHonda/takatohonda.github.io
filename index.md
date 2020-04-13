@@ -84,10 +84,15 @@ Thank you for your numerous support of me.
     Graduate School of Science and Technology,  
     Computer Science and Electrical Engineering,  
     [Kumamoto University](https://www.kumamoto-u.ac.jp/)  
+    (**Dean's Award**)
+- \[2017-2020\]: Special Research Student  
+    [The Institute of Scientific and Industrial Research](https://www.sanken.osaka-u.ac.jp/en/),  
+    [Osaka University](https://www.osaka-u.ac.jp/en/index.html)  
 - \[2015-2017\]: M.Sc.  
     Graduate School of Science and Technology,  
     Computer Science and Electrical Engineering,  
     [Kumamoto University](https://www.kumamoto-u.ac.jp/)  
+    (**JASSO Repayment Exemption (Full)**)
 - \[2011-2015\]: B.Sc.  
     Department of Computer Science and Electrical Engineering,  
     [Kumamoto University](https://www.kuzmamoto-u.ac.jp/)  
