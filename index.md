@@ -97,6 +97,6 @@ Thank you for your numerous support of me.
     [Kumamoto University](https://www.kuzmamoto-u.ac.jp/)  
 
 ### Ex-colleagues
-[Saeru Yamamuro](https://saeeeeru.github.io)  
-[Momota Sasaki](https://www.linkedin.com/in/momotasasaki/?originalSubdomain=jp)  
+- [Saeru Yamamuro](https://saeeeeru.github.io), Data Scientist@Softbank  
+- [Momota Sasaki](https://www.linkedin.com/in/momotasasaki/?originalSubdomain=jp), Engineer@JDSC  
 
