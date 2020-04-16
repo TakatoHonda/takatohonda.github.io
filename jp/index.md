@@ -112,4 +112,4 @@ Takato Honda: <u>``TrailMarker: Automatic Mining of Geographical Complex Sequenc
 
 ### リンク集
 - [山室 冴](https://saeeeeru.github.io), Data Scientist@Softbank  
-- [佐々木 桃太], エンジニア (https://www.linkedin.com/in/momotasasaki/?originalSubdomain=jp), Engineer@JDSC  
+- [佐々木 桃太](https://www.linkedin.com/in/momotasasaki/?originalSubdomain=jp), Engineer@JDSC  
