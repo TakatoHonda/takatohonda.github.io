@@ -89,7 +89,6 @@ Takato Honda: <u>``TrailMarker: Automatic Mining of Geographical Complex Sequenc
 - \[2016年 4月\]: [中董奨学金 採択](https://www.nakashima-foundation.org/scholarship/)  
 ご支援に深くお礼申し上げます．  
 
-
 ### 職歴
 - \[2020年-現在\]: 大阪大学 産業科学研究所 特任助教
 - \[2017年-2020年\]: 日本学術振興会 特別研究員 (DC1)
@@ -110,3 +109,7 @@ Takato Honda: <u>``TrailMarker: Automatic Mining of Geographical Complex Sequenc
     情報電気電子工学科 卒業  
 - \[2008年-2011年\]: 高校  
     熊本県立 八代高等学校 卒業  
+
+### リンク集
+[山室 冴](https://saeeeeru.github.io)  
+[佐々木 桃太](https://www.linkedin.com/in/momotasasaki/?originalSubdomain=jp)  

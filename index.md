@@ -96,4 +96,7 @@ Thank you for your numerous support of me.
     Department of Computer Science and Electrical Engineering,  
     [Kumamoto University](https://www.kuzmamoto-u.ac.jp/)  
 
+### Ex-colleagues
+[Saeru Yamamuro](https://saeeeeru.github.io)  
+[Momota Sasaki](https://www.linkedin.com/in/momotasasaki/?originalSubdomain=jp)  
 
