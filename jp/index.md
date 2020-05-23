@@ -18,7 +18,17 @@ layout: default
 - [車両走行データ解析](https://www.dm.sanken.osaka-u.ac.jp/industry/project_vehicle/)  
 - [スマート工場プロジェクト](https://www.dm.sanken.osaka-u.ac.jp/industry/project_smart/)  
 
-### 国際会議（最新）
+### 国際会議（抜粋）
+<details>
+<summary>
+Non-Linear Mining of Social Activities in Tensor Streams (KDD'20)<br>
+<a href="">[code]</a>
+<a href="">[paper]</a>
+<a href="">[slide]</a>
+</summary>
+Koki Kawabata, Yasuko Matsubara, Takato Honda, Yasushi Sakurai: <u>``Non-Linear Mining of Social Activities in Tensor Streams”</u>, In Proceedings of The 26th ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD’20, to appear).
+</details>
+
 <details>
 <summary>
 Multi-Aspect Mining of Complex Sensor Sequences (ICDM'19)<br>
@@ -64,6 +74,7 @@ Takato Honda: <u>``TrailMarker: Automatic Mining of Geographical Complex Sequenc
 </details><br>
 
 ### 受賞など
+- \[2020年 5月\]: [DEIM 2020 優秀論文賞](https://db-event.jpn.org/deim2020/post/awards.html)  
 - \[2020年 3月\]: [熊本大学大学院 自然科学教育部長賞](https://takatohonda.github.io/jp)  
 <!-- - \[2020年 3月\]: [熊本大学大学院 学業成績優秀者表彰](https://takatohonda.github.io/jp)  
 -->

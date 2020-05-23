@@ -19,7 +19,17 @@ Mihogaoka 8-1, Ibaraki, Osaka 567-0047, Japan
 - [Vehicle Sensor Analysis](https://www.dm.sanken.osaka-u.ac.jp/industry/project_vehicle/)  
 - [Smart Factory Project](https://www.dm.sanken.osaka-u.ac.jp/industry/project_smart/)  
 
-### Conferences (latest)
+### Conferences (Recently)
+<details>
+<summary>
+Non-Linear Mining of Social Activities in Tensor Streams (KDD'20)<br>
+<a href="">[code]</a>
+<a href="">[paper]</a>
+<a href="">[slide]</a>
+</summary>
+Koki Kawabata, Yasuko Matsubara, Takato Honda, Yasushi Sakurai: <u>``Non-Linear Mining of Social Activities in Tensor Streams”</u>, In Proceedings of The 26th ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD’20, to appear).
+</details>
+
 <details>
 <summary>
 Multi-Aspect Mining of Complex Sensor Sequences (ICDM'19)<br>
@@ -48,6 +58,7 @@ Takato Honda: <u>``TrailMarker: Automatic Mining of Geographical Complex Sequenc
  --><br>
 
 ### Awards
+- \[May. 2020\]: [DEIM 2020 Best Paper Runner-up Award](https://db-event.jpn.org/deim2020/post/awards.html)  
 - \[Mar. 2020\]: [Dean's Award (Kumamoto University)](https://takatohonda.github.io)  
 - \[Mar. 2020\]: [DEIM 2020 Online Presentation Award](https://db-event.jpn.org/deim2020/post/awards.html)  
 - \[Nov. 2019\]: [IEEE ICDM Student Award](https://takatohonda.github.io)  
