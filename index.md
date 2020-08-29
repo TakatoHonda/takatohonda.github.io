@@ -58,6 +58,7 @@ Takato Honda: <u>``TrailMarker: Automatic Mining of Geographical Complex Sequenc
  --><br>
 
 ### Awards
+- \[Aug. 2020\]: [IPSJ Computer Science Research Award](https://www.ipsj.or.jp/award/cs-award-2020.html)
 - \[May. 2020\]: [DEIM 2020 Best Paper Runner-up Award](https://db-event.jpn.org/deim2020/post/awards.html)  
 - \[Mar. 2020\]: [Dean's Award (Kumamoto University)](https://takatohonda.github.io)  
 - \[Mar. 2020\]: [DEIM 2020 Online Presentation Award](https://db-event.jpn.org/deim2020/post/awards.html)  
@@ -69,6 +70,7 @@ Takato Honda: <u>``TrailMarker: Automatic Mining of Geographical Complex Sequenc
 - \[Nov. 2015\]: [WebDB Forum 2015 Student Award](https://db-event.jpn.org/webdbf2015/award.php)  
 
 ### Patents
+- \[Aug. 2020\]: 「時系列テンソルデータのための予測装置、予測方法、及びプログラム」, 川畑 光希, 松原 靖子, 本田 崇人, 櫻井 保志
 - \[Jan. 2020\]:「時系列解析に基づくイベント予測装置、イベント予測方法およびプログラム」, 本田 崇人, 松原 靖子, 川畑 光希, 櫻井 保志, 特願2020-8388  
 
 ### Grants

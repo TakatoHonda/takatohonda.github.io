@@ -74,10 +74,10 @@ Takato Honda: <u>``TrailMarker: Automatic Mining of Geographical Complex Sequenc
 </details><br>
 
 ### 受賞など
+- \[2020年 8月\]: [情報処理学会 CS領域奨励賞](https://www.ipsj.or.jp/award/cs-award-2020.html)
 - \[2020年 5月\]: [DEIM 2020 優秀論文賞](https://db-event.jpn.org/deim2020/post/awards.html)  
 - \[2020年 3月\]: [熊本大学大学院 自然科学教育部長賞](https://takatohonda.github.io/jp)  
-<!-- - \[2020年 3月\]: [熊本大学大学院 学業成績優秀者表彰](https://takatohonda.github.io/jp)  
--->
+ - \[2020年 3月\]: [熊本大学大学院 学業成績優秀者表彰](https://takatohonda.github.io/jp)  
 - \[2020年 3月\]: [DEIM 2020 オンラインプレゼンテーション賞](https://db-event.jpn.org/deim2020/post/awards.html)  
 - \[2019年 11月\]: [IEEE ICDM Student Award](https://takatohonda.github.io/jp)  
 - \[2019年 9月\]: [WebDBフォーラム 2019 FUJITSU賞](https://db-event.jpn.org/webdbf2019/award.html)  
@@ -87,13 +87,15 @@ Takato Honda: <u>``TrailMarker: Automatic Mining of Geographical Complex Sequenc
 - \[2015年 11月\]: [WebDBフォーラム 2015 学生奨励賞](https://db-event.jpn.org/webdbf2015/award.php)  
 
 ### 特許
+- \[2020年 8月\]: 「時系列テンソルデータのための予測装置、予測方法、及びプログラム」,
+川畑 光希, 松原 靖子, 本田 崇人, 櫻井 保志,
+特願2020-139168  
 - \[2020年 1月\]:「時系列解析に基づくイベント予測装置、イベント予測方法およびプログラム」,
 本田 崇人, 松原 靖子, 川畑 光希, 櫻井 保志,
 特願2020-8388  
 
-
 ### その他（奨学金など）
-- \[2015年-2020年\]: [熊本大学 授業料免除 (全額)](https://takatohonda.github.io/jp) 
+- \[2015年-2020年\]: [熊本大学 授業料免除 (全額)](https://takatohonda.github.io/jp)  
 - \[2017年 5月\]: [JASSO 特に優れた業績による返還免除 (全額)](https://www.jasso.go.jp/shogakukin/taiyochu/gyosekimenjyo/index.html)  
 - \[2017年 4月\]: [日本学術振興会 特別研究員奨励費 (DC1)](https://www.jsps.go.jp/j-pd/pd_gaiyo.html)  
 - \[2016年 6月\]: [日揮実吉奨学金 採択](http://www.jgcs.or.jp)  
