@@ -24,10 +24,10 @@ Mihogaoka 8-1, Ibaraki, Osaka 567-0047, Japan
 <summary>
 Non-Linear Mining of Social Activities in Tensor Streams (KDD'20)<br>
 <a href="">[code]</a>
-<a href="">[paper]</a>
+<a href="https://takatohonda.github.io/paper/paper-kdd20.pdf">[paper]</a>
 <a href="">[slide]</a>
 </summary>
-Koki Kawabata, Yasuko Matsubara, Takato Honda, Yasushi Sakurai: <u>``Non-Linear Mining of Social Activities in Tensor Streams”</u>, In Proceedings of The 26th ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD’20, to appear).
+Koki Kawabata, Yasuko Matsubara, Takato Honda, Yasushi Sakurai: <u>``Non-Linear Mining of Social Activities in Tensor Streams”</u>, In Proceedings of The 26th ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD’20).
 </details>
 
 <details>
