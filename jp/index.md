@@ -2,21 +2,27 @@
 layout: default
 ---
 
-### 本田 崇人（ほんだ たかと）
-大阪大学 産業科学研究所 特任助教  
-連絡先: <takato@sanken.osaka-u.ac.jp>  
+### 本田 崇人（ほんだ たかと）, 博士 （工学）
+株式会社JDSC データサイエンティスト
+<!-- 大阪大学 産業科学研究所 特任助教   -->
+連絡先: <takato.honda@jdsc.ai>  
 
 ### 所属
-[大阪大学](https://www.osaka-u.ac.jp/en/index.html)
+[株式会社JDSC](https://jdsc.ai)  
+〒113-0033
+東京都文京区本郷二丁目38-16  
+JEI本郷ビル8F  
+
+<!-- [大阪大学](https://www.osaka-u.ac.jp/en/index.html)
 [産業科学研究所](https://www.sanken.osaka-u.ac.jp/en/)  
 [産業科学AIセンター](https://www.sanken.osaka-u.ac.jp/organization/ai_center/)
 [櫻井研究室](https://www.dm.sanken.osaka-u.ac.jp)  
 〒567-0047  
-大阪府茨木市美穂が丘8-1  
+大阪府茨木市美穂が丘8-1   -->
 
-### プロジェクト
+<!-- ### プロジェクト
 - [車両走行データ解析](https://www.dm.sanken.osaka-u.ac.jp/industry/project_vehicle/)  
-- [スマート工場プロジェクト](https://www.dm.sanken.osaka-u.ac.jp/industry/project_smart/)  
+- [スマート工場プロジェクト](https://www.dm.sanken.osaka-u.ac.jp/industry/project_smart/)   -->
 
 ### 国際会議（抜粋）
 <details>
@@ -103,7 +109,8 @@ Takato Honda: <u>``TrailMarker: Automatic Mining of Geographical Complex Sequenc
 ご支援に深くお礼申し上げます．  
 
 ### 職歴
-- \[2020年-現在\]: 大阪大学 産業科学研究所 特任助教
+- \[2021年-現在\]: 株式会社JDSC データサイエンティスト
+- \[2020年-2021年\]: 大阪大学 産業科学研究所 特任助教
 - \[2017年-2020年\]: 日本学術振興会 特別研究員 (DC1)
 
 ### 学歴
@@ -125,4 +132,4 @@ Takato Honda: <u>``TrailMarker: Automatic Mining of Geographical Complex Sequenc
 
 ### リンク集
 - [山室 冴](https://saeeeeru.github.io), Data Scientist@Softbank  
-- [佐々木 桃太](https://www.linkedin.com/in/momotasasaki/?originalSubdomain=jp), Engineer@JDSC  
+- [佐々木 桃太](https://www.linkedin.com/in/momotasasaki/?originalSubdomain=jp), Engineer@Kyash  

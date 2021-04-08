@@ -2,22 +2,23 @@
 layout: default
 ---
 
-### Takato Honda
+### Takato Honda, Ph.D.
 
-I am a specially appointed assistant professor at Osaka University, Japan.
+I am a data scientist at JDSC Co. Ltd., Japan.
 My research focuses on time-series tensor mining for IoT sensor sequences.  
-Contact me: <takato@sanken.osaka-u.ac.jp>  
+Contact me: <takato.honda@jdsc.ai>  
 
 ### Affiliation
-[Sakurai Laboratory](https://www.dm.sanken.osaka-u.ac.jp)  
+[JDSC Co. Ltd.](https://jdsc.ai)
+<!-- [Sakurai Laboratory](https://www.dm.sanken.osaka-u.ac.jp)  
 [Artificial Intelligence Research Center](https://www.sanken.osaka-u.ac.jp/organization/ai_center/)  
 [The Institute of Scientific and Industrial Research](https://www.sanken.osaka-u.ac.jp/en/)  
 [Osaka University](https://www.osaka-u.ac.jp/en/index.html)  
-Mihogaoka 8-1, Ibaraki, Osaka 567-0047, Japan  
+Mihogaoka 8-1, Ibaraki, Osaka 567-0047, Japan   -->
 
-### Projects
+<!-- ### Projects (Old)
 - [Vehicle Sensor Analysis](https://www.dm.sanken.osaka-u.ac.jp/industry/project_vehicle/)  
-- [Smart Factory Project](https://www.dm.sanken.osaka-u.ac.jp/industry/project_smart/)  
+- [Smart Factory Project](https://www.dm.sanken.osaka-u.ac.jp/industry/project_smart/)   -->
 
 ### Conferences (Recently)
 <details>
@@ -87,8 +88,8 @@ Thank you for your numerous support of me.
 -->
  
 ### Experiences
-
-- \[2020 - \]: Specially appointed assistant professor at Osaka University  
+-\[2021 - \]: Data Scientist at JDSC Co. Ltd.
+- \[2020-2021\]: Specially appointed assistant professor at Osaka University  
 - \[2017-2020\]: JSPS research fellow, DC1 (SV: [Yasushi Sakurai](https://www.dm.sanken.osaka-u.ac.jp/~yasushi/))
 
 ### Education
@@ -111,5 +112,5 @@ Thank you for your numerous support of me.
 
 ### Ex-colleagues
 - [Saeru Yamamuro](https://saeeeeru.github.io), Data Scientist@Softbank  
-- [Momota Sasaki](https://www.linkedin.com/in/momotasasaki/?originalSubdomain=jp), Engineer@JDSC  
+- [Momota Sasaki](https://www.linkedin.com/in/momotasasaki/?originalSubdomain=jp), Engineer@Kyash  
 
