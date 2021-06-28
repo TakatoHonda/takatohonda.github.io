@@ -3,14 +3,15 @@ layout: default
 ---
 
 ### Takato Honda, Ph.D.
-I am a data scientist at JDSC Co. Ltd., Japan.
+<!-- I am a data scientist at JDSC Co. Ltd., Japan. -->
+Takato Honda is a data scientist in Japan.
 My research focuses on time-series tensor mining for IoT sensor sequences.  
-Contact me: <takato.honda@jdsc.ai>  
+<!-- Contact me: <takato.honda@jdsc.ai>   -->
 
-### Affiliation
+<!-- ### Affiliation
 [JDSC Co. Ltd.](https://jdsc.ai)  
 Hongo 2-38-16, Bunkyo, Tokyo 113-0033, Japan  
-JEI Hongo Building 8F  
+JEI Hongo Building 8F   -->
 <!-- [Sakurai Laboratory](https://www.dm.sanken.osaka-u.ac.jp)  
 [Artificial Intelligence Research Center](https://www.sanken.osaka-u.ac.jp/organization/ai_center/)  
 [The Institute of Scientific and Industrial Research](https://www.sanken.osaka-u.ac.jp/en/)  
@@ -89,7 +90,7 @@ Thank you for your numerous support of me.
 -->
  
 ### Experiences
-- \[2021 - \]: Data scientist at JDSC Co. Ltd.
+<!-- - \[2021 - \]: Data scientist at JDSC Co. Ltd. -->
 - \[2020-2021\]: Specially appointed assistant professor at Osaka University  
 - \[2017-2020\]: JSPS research fellow, DC1 (SV: [Yasushi Sakurai](https://www.dm.sanken.osaka-u.ac.jp/~yasushi/))
 

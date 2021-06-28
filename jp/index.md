@@ -3,16 +3,17 @@ layout: default
 ---
 
 ### 本田 崇人（ほんだ たかと）
-株式会社JDSC データサイエンティスト  
+<!-- 株式会社JDSC  -->
+データサイエンティスト  
 博士（工学）   
 <!-- 大阪大学 産業科学研究所 特任助教   -->
-連絡先: <takato.honda@jdsc.ai>  
+<!-- 連絡先: <takato.honda@jdsc.ai>   -->
 
-### 所属
+<!-- ### 所属
 [株式会社JDSC](https://jdsc.ai)  
 〒113-0033
 東京都文京区本郷二丁目38-16  
-JEI本郷ビル8F  
+JEI本郷ビル8F   -->
 
 <!-- [大阪大学](https://www.osaka-u.ac.jp/en/index.html)
 [産業科学研究所](https://www.sanken.osaka-u.ac.jp/en/)  
@@ -110,7 +111,7 @@ Takato Honda: <u>``TrailMarker: Automatic Mining of Geographical Complex Sequenc
 ご支援に深くお礼申し上げます．  
 
 ### 職歴
-- \[2021年-現在\]: 株式会社JDSC データサイエンティスト
+<!-- - \[2021年-現在\]: 株式会社JDSC データサイエンティスト -->
 - \[2020年-2021年\]: 大阪大学 産業科学研究所 特任助教
 - \[2017年-2020年\]: 日本学術振興会 特別研究員 (DC1)
 
