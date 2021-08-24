@@ -133,6 +133,6 @@ Takato Honda: <u>``TrailMarker: Automatic Mining of Geographical Complex Sequenc
 - \[2008年-2011年\]: 高校  
     熊本県立 八代高等学校 卒業  
 
-### リンク集
+<!-- ### リンク集
 - [山室 冴](https://saeeeeru.github.io), Data Scientist@Softbank  
-- [佐々木 桃太](https://www.linkedin.com/in/momotasasaki/?originalSubdomain=jp), Engineer@Kyash  
+- [佐々木 桃太](https://www.linkedin.com/in/momotasasaki/?originalSubdomain=jp), Engineer@Kyash   -->
