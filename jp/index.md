@@ -67,6 +67,14 @@ Takato Honda: <u>``TrailMarker: Automatic Mining of Geographical Complex Sequenc
 ### 国内論文誌（抜粋）
 <details>
 <summary>
+Non-Linear Mining of Social Activities in Tensor Streams (TOD, to appear)<br>
+<a href="https://ipsj.ixsq.nii.ac.jp/ej/index.php?active_action=repository_view_main_item_detail&page_id=13&block_id=8&item_id=202955&item_no=1">[paper]</a>
+</summary>
+Koki Kawabata, Yasuko Matsubara, Takato Honda and Yasushi Sakurai: “Non-Linear Mining of Social Activities in Tensor Streams”, 情報処理学会論文誌:データベース, to appear.
+</details>
+
+<details>
+<summary>
 大規模時系列テンソルによる多角的イベント予測 (TOD84)<br>
 <a href="https://ipsj.ixsq.nii.ac.jp/ej/index.php?active_action=repository_view_main_item_detail&page_id=13&block_id=8&item_id=202955&item_no=1">[paper]</a>
 </summary>
