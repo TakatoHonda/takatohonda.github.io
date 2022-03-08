@@ -7,7 +7,7 @@ layout: default
 データサイエンティスト, 代表取締役  
 博士（工学）   
 <!-- 大阪大学 産業科学研究所 特任助教   -->
-連絡先: <hndtkt.c@@gmail.com>  
+連絡先: <hndtkt.c@gmail.com>  
 
 ### 所属
 株式会社DSG
