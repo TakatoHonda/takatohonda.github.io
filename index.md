@@ -3,15 +3,15 @@ layout: default
 ---
 
 ### Takato Honda, Ph.D.
-<!-- I am a data scientist at JDSC Co. Ltd., Japan. -->
-Takato Honda is a data scientist in Japan.
+Takato Honda is a data scientist, CEO at DSG Co. Ltd., Japan.
 My research focuses on time-series tensor mining for IoT sensor sequences.  
-<!-- Contact me: <takato.honda@jdsc.ai>   -->
+Contact me: <hndtkt.c@jdsc.ai>  
 
-<!-- ### Affiliation
-[JDSC Co. Ltd.](https://jdsc.ai)  
-Hongo 2-38-16, Bunkyo, Tokyo 113-0033, Japan  
-JEI Hongo Building 8F   -->
+### Affiliation
+DSG Co. Ltd.  
+
+Hongo 1-33-4, Bunkyo, Tokyo 113-0033, Japan  
+UP BASE Suidobashi 211  
 <!-- [Sakurai Laboratory](https://www.dm.sanken.osaka-u.ac.jp)  
 [Artificial Intelligence Research Center](https://www.sanken.osaka-u.ac.jp/organization/ai_center/)  
 [The Institute of Scientific and Industrial Research](https://www.sanken.osaka-u.ac.jp/en/)  
@@ -43,7 +43,7 @@ Multi-Aspect Mining of Complex Sensor Sequences (ICDM'19)<br>
 Takato Honda, Yasuko Matsubara, Ryo Neyama, Mutsumi Abe, Yasushi Sakurai: <u>``Multi-Aspect Mining of Complex Sensor Sequences”</u>, IEEE International Conference on Data Mining (ICDM), pp. 299-308, Beijing, China, November 8-11, 2019 (Regular paper) (Acceptance ratio 9.08%).
 </details>
 
-<details>
+<!-- <details>
 <summary>
 Automatic Mining of Large IoT Sensor Tensor (ICDM'18 Workshop)<br>
 <a href="https://ieeexplore.ieee.org/document/8637498">[paper]</a>
@@ -57,7 +57,7 @@ Automatic Mining of Geographical Complex Sequences (SIGMOD'16 Workshop)<br>
 <a href="https://dl.acm.org/citation.cfm?doid=2926693.2929903">[paper]</a>
 </summary>
 Takato Honda: <u>``TrailMarker: Automatic Mining of Geographical Complex Sequences"</u>, ACM SIGMOD International Conference on Management of Data (SIGMOD), Ph.D. Symposium, San Francisco, USA, June 2016. 
-</details>
+</details> -->
 <br>
 
 ### Awards

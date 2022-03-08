@@ -3,17 +3,17 @@ layout: default
 ---
 
 ### 本田 崇人（ほんだ たかと）
-<!-- 株式会社JDSC  -->
-データサイエンティスト  
+株式会社DSG
+データサイエンティスト, 代表取締役  
 博士（工学）   
 <!-- 大阪大学 産業科学研究所 特任助教   -->
-<!-- 連絡先: <takato.honda@jdsc.ai>   -->
+連絡先: <hndtkt.c@@gmail.com>  
 
-<!-- ### 所属
-[株式会社JDSC](https://jdsc.ai)  
+### 所属
+株式会社DSG
 〒113-0033
-東京都文京区本郷二丁目38-16  
-JEI本郷ビル8F   -->
+東京都文京区本郷1-33-4  
+UPBASE 水道橋 211  
 
 <!-- [大阪大学](https://www.osaka-u.ac.jp/en/index.html)
 [産業科学研究所](https://www.sanken.osaka-u.ac.jp/en/)  
@@ -47,7 +47,7 @@ Multi-Aspect Mining of Complex Sensor Sequences (ICDM'19)<br>
 Takato Honda, Yasuko Matsubara, Ryo Neyama, Mutsumi Abe, Yasushi Sakurai: <u>``Multi-Aspect Mining of Complex Sensor Sequences”</u>, IEEE International Conference on Data Mining (ICDM), pp. 299-308, Beijing, China, November 8-11, 2019 (Regular paper) (Acceptance ratio 9.08%).
 </details>
 
-<details>
+<!-- <details>
 <summary>
 Automatic Mining of Large IoT Sensor Tensor (ICDM'18 Workshop)<br>
 <a href="https://ieeexplore.ieee.org/document/8637498">[paper]</a>
@@ -61,7 +61,7 @@ Automatic Mining of Geographical Complex Sequences (SIGMOD'16 Workshop)<br>
 <a href="https://dl.acm.org/citation.cfm?doid=2926693.2929903">[paper]</a>
 </summary>
 Takato Honda: <u>``TrailMarker: Automatic Mining of Geographical Complex Sequences"</u>, ACM SIGMOD International Conference on Management of Data (SIGMOD), Ph.D. Symposium, San Francisco, USA, June 2016. 
-</details>
+</details> -->
 <br>
 
 ### 国内論文誌（抜粋）
