@@ -3,12 +3,12 @@ layout: default
 ---
 
 ### Takato Honda, Ph.D.
-Takato Honda is a data scientist, CEO at DSG Co. Ltd., Japan.
+Takato Honda is a data scientist, CEO at DSG Co., Ltd., Japan.
 My research focuses on time-series tensor mining for IoT sensor sequences.  
 Contact me: <hndtkt.c@gmail.com>  
 
 ### Affiliation
-DSG Co. Ltd.  
+DSG Co., Ltd.  
 
 Hongo 1-33-4, Bunkyo, Tokyo 113-0033, Japan  
 UP BASE Suidobashi 211  
@@ -91,7 +91,8 @@ Thank you for your numerous support of me.
 -->
  
 ### Experiences
-- \[2021 - \]: Data scientist, CEO at DSG Co. Ltd.
+- \[2021 - \]: Data scientist, CEO at DSG Co., Ltd.
+- \[2021-2022\]: Data scientist at JDSC Co., Ltd.
 - \[2020-2021\]: Specially appointed assistant professor at Osaka University  
 - \[2017-2020\]: JSPS research fellow, DC1 (SV: [Yasushi Sakurai](https://www.dm.sanken.osaka-u.ac.jp/~yasushi/))
 
