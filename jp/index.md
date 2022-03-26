@@ -9,7 +9,7 @@ layout: default
 AI開発アドバイザー  
 博士（工学）   
 <!-- 大阪大学 産業科学研究所 特任助教   -->
-連絡先: <hndtkt.c@gmail.com>  
+連絡先: <takato@dsg-co.com>  
 
 ### 所属
 株式会社DSG
