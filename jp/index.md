@@ -5,9 +5,11 @@ layout: default
 ### 本田 崇人（ほんだ たかと）
 株式会社DSG
 データサイエンティスト, 代表取締役  
-株式会社Robot Consulting  
+
+株式会社Robot Consulting
 AI開発アドバイザー  
-博士（工学）   
+
+博士（工学）  
 <!-- 大阪大学 産業科学研究所 特任助教   -->
 連絡先: <takato@dsg-co.com>  
 
