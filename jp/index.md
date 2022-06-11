@@ -15,14 +15,6 @@ AI開発アドバイザー
 株式会社DSG
 〒113-0033
 東京都文京区本郷1-33-4  
-UPBASE 水道橋 211  
-
-<!-- [大阪大学](https://www.osaka-u.ac.jp/en/index.html)
-[産業科学研究所](https://www.sanken.osaka-u.ac.jp/en/)  
-[産業科学AIセンター](https://www.sanken.osaka-u.ac.jp/organization/ai_center/)
-[櫻井研究室](https://www.dm.sanken.osaka-u.ac.jp)  
-〒567-0047  
-大阪府茨木市美穂が丘8-1   -->
 
 <!-- ### プロジェクト
 - [車両走行データ解析](https://www.dm.sanken.osaka-u.ac.jp/industry/project_vehicle/)  
@@ -49,9 +41,9 @@ Multi-Aspect Mining of Complex Sensor Sequences (ICDM'19)<br>
 Takato Honda, Yasuko Matsubara, Ryo Neyama, Mutsumi Abe, Yasushi Sakurai: <u>``Multi-Aspect Mining of Complex Sensor Sequences”</u>, IEEE International Conference on Data Mining (ICDM), pp. 299-308, Beijing, China, November 8-11, 2019 (Regular paper) (Acceptance ratio 9.08%).
 </details>
 
-<!-- <details>
+<details>
 <summary>
-Automatic Mining of Large IoT Sensor Tensor (ICDM'18 Workshop)<br>
+Automatic Mining of Large IoT Sensor Tensor (ICDMW'18)<br>
 <a href="https://ieeexplore.ieee.org/document/8637498">[paper]</a>
 </summary>
 Takato Honda, Yasuko Matsubara, Yasushi Sakurai: <u>``Automatic Mining of Large IoT Sensor Tensor"</u>, IEEE International Conference on Data Mining (ICDM) Ph.D. Forum, Singapore, November 17-20, 2018.
@@ -59,11 +51,11 @@ Takato Honda, Yasuko Matsubara, Yasushi Sakurai: <u>``Automatic Mining of Large 
 
 <details>
 <summary>
-Automatic Mining of Geographical Complex Sequences (SIGMOD'16 Workshop)<br>
+Automatic Mining of Geographical Complex Sequences (SIGMODW'16)<br>
 <a href="https://dl.acm.org/citation.cfm?doid=2926693.2929903">[paper]</a>
 </summary>
 Takato Honda: <u>``TrailMarker: Automatic Mining of Geographical Complex Sequences"</u>, ACM SIGMOD International Conference on Management of Data (SIGMOD), Ph.D. Symposium, San Francisco, USA, June 2016. 
-</details> -->
+</details>
 <br>
 
 ### 国内論文誌（抜粋）
@@ -145,7 +137,3 @@ Koki Kawabata, Yasuko Matsubara, Takato Honda and Yasushi Sakurai: “Non-Linear
     情報電気電子工学科 卒業  
 - \[2008年-2011年\]: 高校  
     熊本県立 八代高等学校 卒業  
-
-<!-- ### リンク集
-- [山室 冴](https://saeeeeru.github.io), Data Scientist@Softbank  
-- [佐々木 桃太](https://www.linkedin.com/in/momotasasaki/?originalSubdomain=jp), Engineer@Kyash   -->
