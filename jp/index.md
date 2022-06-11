@@ -9,7 +9,7 @@ layout: default
 AI開発アドバイザー
 
 <!-- 大阪大学 産業科学研究所 特任助教   -->
-連絡先: <takato@dsg-co.com>
+連絡先: <takato@dsg-co.com>  
 <!-- Twitter -->
 <a href="https://twitter.com/t_honda?ref_src=twsrc%5Etfw" class="twitter-follow-button" data-show-count="false">Follow @t_honda</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
