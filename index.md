@@ -72,6 +72,7 @@ Takato Honda: <u>``TrailMarker: Automatic Mining of Geographical Complex Sequenc
 - \[Nov. 2015\]: [WebDB Forum 2015 Student Award](https://db-event.jpn.org/webdbf2015/award.php)  
 
 ### Patents
+- \[Jul. 2022\]: 「情報処理装置、情報処理システム、情報処理方法、および、プログラム」, 本田 崇人, 特願2022-100926  
 - \[Aug. 2021\]: 「情報処理システム、コンピュータシステム及びプログラム」, 本田 崇人, 特願2021-105946  
 - \[Aug. 2020\]: 「時系列テンソルデータのための予測装置、予測方法、及びプログラム」, 川畑 光希, 松原 靖子, 本田 崇人, 櫻井 保志, 特願2020-139168  
 - \[Jan. 2020\]:「時系列解析に基づくイベント予測装置、イベント予測方法およびプログラム」, 本田 崇人, 松原 靖子, 川畑 光希, 櫻井 保志, 特願2020-8388  
@@ -84,10 +85,8 @@ Takato Honda: <u>``TrailMarker: Automatic Mining of Geographical Complex Sequenc
 - \[Apr. 2016\]: [NAKATO Grants](https://www.nakashima-foundation.org/scholarship/)  
 Thank you for your numerous support of me.
 
-<!-- 
 ### Skills
 - Python, C, C++, MATLAB  
--->
  
 ### Experiences
 - \[2022 - \]: Data scientist, CEO at DSG Co., Ltd.
