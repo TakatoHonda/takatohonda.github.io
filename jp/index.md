@@ -3,18 +3,18 @@ layout: default
 ---
 
 ### 本田 崇人（ほんだ たかと） 博士（工学）
-株式会社DSG
-データサイエンティスト, 代表取締役  
-株式会社Robot Consulting
-AI開発アドバイザー
+株式会社メロン  
+データサイエンティスト, 取締役CTO  
+<!-- 株式会社Robot Consulting
+AI開発アドバイザー -->
 
 <!-- 大阪大学 産業科学研究所 特任助教   -->
-連絡先: <takato@dsg-co.com>  
+連絡先: <takato@melloninc.jp>  
 <!-- Twitter -->
 <a href="https://twitter.com/t_honda?ref_src=twsrc%5Etfw" class="twitter-follow-button" data-show-count="false">Follow @t_honda</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 ### 所属
-株式会社DSG  
+株式会社メロン 
 〒113-0033
 東京都文京区本郷1-33-4  
 
@@ -118,8 +118,10 @@ Koki Kawabata, Yasuko Matsubara, Takato Honda and Yasushi Sakurai: “Non-Linear
 ご支援に深くお礼申し上げます．  
 
 ### 職歴
+- \[2022年-現在\]: カリスト株式会社 取締役CTO
+- \[2022年-現在\]: 株式会社メロン 取締役CTO
 - \[2022年-現在\]: 株式会社DSG データサイエンティスト, 代表取締役
-- \[2022年-現在\]: 株式会社Robot Consulting AI開発アドバイザー
+<!-- - \[2022年-現在\]: 株式会社Robot Consulting AI開発アドバイザー -->
 - \[2021年-2022年\]: 株式会社JDSC データサイエンティスト/起業家支援制度
 - \[2020年-2021年\]: 大阪大学 産業科学研究所 特任助教
 - \[2017年-2020年\]: 日本学術振興会 特別研究員 (DC1)
