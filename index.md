@@ -5,12 +5,15 @@ layout: default
 ### Takato Honda, Ph.D.
 Takato Honda is a data scientist in Japan.
 My research focuses on time-series tensor mining for IoT sensor sequences.  
-Contact me: <takato@melloninc.jp>  
+Contact me: 
+<takato@callisto-ai.com>  
+<takato@melloninc.jp>  
 
-### Affiliation
-Mellon Co., Ltd.  
+<!-- ### Affiliation -->
+<!-- Callisto Inc. -->
+<!-- Mellon Co., Ltd.   -->
 
-Hongo 1-33-4, Bunkyo, Tokyo 113-0033, Japan  
+<!-- Hongo 1-33-4, Bunkyo, Tokyo 113-0033, Japan   -->
 <!-- [Sakurai Laboratory](https://www.dm.sanken.osaka-u.ac.jp)  
 [Artificial Intelligence Research Center](https://www.sanken.osaka-u.ac.jp/organization/ai_center/)  
 [The Institute of Scientific and Industrial Research](https://www.sanken.osaka-u.ac.jp/en/)  

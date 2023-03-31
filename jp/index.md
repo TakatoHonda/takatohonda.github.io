@@ -3,20 +3,22 @@ layout: default
 ---
 
 ### 本田 崇人（ほんだ たかと） 博士（工学）
-株式会社メロン  
-データサイエンティスト, 取締役CTO  
+<!-- 株式会社メロン  
+データサイエンティスト, 取締役CTO   -->
 <!-- 株式会社Robot Consulting
 AI開発アドバイザー -->
 
 <!-- 大阪大学 産業科学研究所 特任助教   -->
-連絡先: <takato@melloninc.jp>  
+連絡先: 
+<takato@callisto-ai.com>  
+<takato@melloninc.jp>  
 <!-- Twitter -->
 <a href="https://twitter.com/t_honda?ref_src=twsrc%5Etfw" class="twitter-follow-button" data-show-count="false">Follow @t_honda</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
-### 所属
+<!-- ### 所属
 株式会社メロン 
 〒113-0033
-東京都文京区本郷1-33-4  
+東京都文京区本郷1-33-4   -->
 
 <!-- ### プロジェクト
 - [車両走行データ解析](https://www.dm.sanken.osaka-u.ac.jp/industry/project_vehicle/)  
