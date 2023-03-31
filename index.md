@@ -5,7 +5,7 @@ layout: default
 ### Takato Honda, Ph.D.
 Takato Honda is a data scientist in Japan.
 My research focuses on time-series tensor mining for IoT sensor sequences.  
-Contact me: 
+Contact me:  
 <takato@callisto-ai.com>  
 <takato@melloninc.jp>  
 

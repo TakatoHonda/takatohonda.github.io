@@ -9,7 +9,7 @@ layout: default
 AI開発アドバイザー -->
 
 <!-- 大阪大学 産業科学研究所 特任助教   -->
-連絡先: 
+連絡先:  
 <takato@callisto-ai.com>  
 <takato@melloninc.jp>  
 <!-- Twitter -->
