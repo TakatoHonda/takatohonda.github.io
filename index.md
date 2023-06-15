@@ -6,8 +6,8 @@ layout: default
 Takato Honda is a data scientist in Japan.
 My research focuses on time-series tensor mining for IoT sensor sequences.  
 Contact me:  
-<takato@callisto-ai.com>  
-<takato@melloninc.jp>  
+<hndtkt.c@gmail.com>  
+<!-- <takato@melloninc.jp>   -->
 
 <!-- ### Affiliation -->
 <!-- Callisto Inc. -->
@@ -93,6 +93,7 @@ Thank you for your numerous support of me.
  
 ### Experiences
 - \[2022 - \]: CTO at Callisto Inc.
+- \[2022 - \]: CTO at SORCIER Inc.
 - \[2022 - \]: CTO at Mellon Inc.
 <!-- - \[2022 - \]: Data scientist, CEO at DSG Co., Ltd. -->
 - \[2022 - \]: AI development adviser, Robot Consulting Co., Ltd.

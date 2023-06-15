@@ -10,8 +10,8 @@ AI開発アドバイザー -->
 
 <!-- 大阪大学 産業科学研究所 特任助教   -->
 連絡先:  
-<takato@callisto-ai.com>  
-<takato@melloninc.jp>  
+<hndtkt.c@gmail.com>  
+<!-- <takato@melloninc.jp>   -->
 <!-- Twitter -->
 <a href="https://twitter.com/t_honda?ref_src=twsrc%5Etfw" class="twitter-follow-button" data-show-count="false">Follow @t_honda</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
@@ -121,8 +121,9 @@ Koki Kawabata, Yasuko Matsubara, Takato Honda and Yasushi Sakurai: “Non-Linear
 
 ### 職歴
 - \[2022年-現在\]: カリスト株式会社 取締役CTO
+- \[2022年-現在\]: 株式会社ソルシエ CTO
 - \[2022年-現在\]: 株式会社メロン 取締役CTO
-- \[2022年-現在\]: 株式会社DSG データサイエンティスト, 代表取締役
+<!-- - \[2022年-現在\]: 株式会社DSG データサイエンティスト, 代表取締役 -->
 <!-- - \[2022年-現在\]: 株式会社Robot Consulting AI開発アドバイザー -->
 - \[2021年-2022年\]: 株式会社JDSC データサイエンティスト/起業家支援制度
 - \[2020年-2021年\]: 大阪大学 産業科学研究所 特任助教
