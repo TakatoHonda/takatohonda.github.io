@@ -9,21 +9,6 @@ Contact me:
 <hndtkt.c@gmail.com>  
 <!-- <takato@melloninc.jp>   -->
 
-<!-- ### Affiliation -->
-<!-- Callisto Inc. -->
-<!-- Mellon Co., Ltd.   -->
-
-<!-- Hongo 1-33-4, Bunkyo, Tokyo 113-0033, Japan   -->
-<!-- [Sakurai Laboratory](https://www.dm.sanken.osaka-u.ac.jp)  
-[Artificial Intelligence Research Center](https://www.sanken.osaka-u.ac.jp/organization/ai_center/)  
-[The Institute of Scientific and Industrial Research](https://www.sanken.osaka-u.ac.jp/en/)  
-[Osaka University](https://www.osaka-u.ac.jp/en/index.html)  
-Mihogaoka 8-1, Ibaraki, Osaka 567-0047, Japan   -->
-
-<!-- ### Projects (Old)
-- [Vehicle Sensor Analysis](https://www.dm.sanken.osaka-u.ac.jp/industry/project_vehicle/)  
-- [Smart Factory Project](https://www.dm.sanken.osaka-u.ac.jp/industry/project_smart/)   -->
-
 ### Conferences (Recently)
 <details>
 <summary>
@@ -92,11 +77,8 @@ Thank you for your numerous support of me.
 - Python, C, C++,  
  
 ### Experiences
-- \[2022 - \]: CTO at Callisto Inc.
 - \[2022 - \]: CTO at SORCIER Inc.
 - \[2022 - \]: CTO at Mellon Inc.
-<!-- - \[2022 - \]: Data scientist, CEO at DSG Co., Ltd. -->
-- \[2022 - \]: AI development adviser, Robot Consulting Co., Ltd.
 - \[2021-2022\]: Data scientist at JDSC Co., Ltd.
 - \[2020-2021\]: Specially appointed assistant professor at Osaka University  
 - \[2017-2020\]: JSPS research fellow, DC1 (SV: [Yasushi Sakurai](https://www.dm.sanken.osaka-u.ac.jp/~yasushi/))
@@ -118,8 +100,4 @@ Thank you for your numerous support of me.
 - \[2011-2015\]: B.Sc.  
     Department of Computer Science and Electrical Engineering,  
     [Kumamoto University](https://www.kuzmamoto-u.ac.jp/)  
-
-<!-- ### Ex-colleagues
-- [Saeru Yamamuro](https://saeeeeru.github.io), Data Scientist@Softbank  
-- [Momota Sasaki](https://www.linkedin.com/in/momotasasaki/?originalSubdomain=jp), Engineer@Kyash   -->
 
