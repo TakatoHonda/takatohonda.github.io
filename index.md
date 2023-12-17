@@ -78,7 +78,7 @@ Thank you for your numerous support of me.
  
 ### Experiences
 - \[2022 - \]: CTO at SORCIER Inc.
-- \[2022 - \]: CTO at Mellon Inc.
+- \[2022 - \]: Co-founder CTO at Mellon Inc.
 - \[2021-2022\]: Data scientist at JDSC Co., Ltd.
 - \[2020-2021\]: Specially appointed assistant professor at Osaka University  
 - \[2017-2020\]: JSPS research fellow, DC1 (SV: [Yasushi Sakurai](https://www.dm.sanken.osaka-u.ac.jp/~yasushi/))
