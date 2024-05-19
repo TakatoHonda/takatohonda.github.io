@@ -105,57 +105,6 @@ window.onload = function() {
         }
     });
 
-    // 背景画像のアップロード機能
-    document.getElementById('backgroundInput').addEventListener('change', function(e) {
-        const file = e.target.files[0];
-        if (file) {
-            const reader = new FileReader();
-            reader.onload = function(f) {
-                const data = f.target.result;
-                console.log('Background file loaded:', data);
-                fabric.Image.fromURL(data, function(img) {
-                    img.set({
-                        originX: 'left',
-                        originY: 'top',
-                        left: 0,
-                        top: 0,
-                        width: canvasWidth,
-                        height: canvasHeight,
-                        scaleX: canvasWidth / img.width,
-                        scaleY: canvasHeight / img.height
-                    });
-                    canvas.setBackgroundImage(img, canvas.renderAll.bind(canvas));
-                    console.log('Background image set');
-                });
-            };
-            reader.onerror = function(error) {
-                console.error('Error reading background file:', error);
-            };
-            reader.readAsDataURL(file);
-        }
-    });
-
-    // キャンバスクリックイベントリスナー
-    // canvas.on('mouse:down', function(options) {
-    //     if (options.target == null) {
-    //         const text = prompt('入力するテキストを入力してください:');
-    //         if (text) {
-    //             const pointer = canvas.getPointer(options.e);
-    //             const textObj = new fabric.Text(text, {
-    //                 left: pointer.x,
-    //                 top: pointer.y,
-    //                 fontSize: 20,
-    //                 fill: 'black'
-    //             });
-    //             canvas.add(textObj);
-    //             canvas.setActiveObject(textObj);
-    //             canvas.renderAll();
-    //             console.log('Text added to canvas:', text);
-    //             updateLayers();
-    //         }
-    //     }
-    // });
-
     // キャンバスの内容を保存する関数
     window.saveCanvas = function() {
         const dataURL = canvas.toDataURL({
@@ -167,4 +116,42 @@ window.onload = function() {
         link.download = 'collage.png';
         link.click();
     };
+
+    // タッチイベントの追加（スマホ対応）
+    canvas.on('touch:drag', function(options) {
+        const obj = canvas.getActiveObject();
+        if (obj) {
+            const pointer = canvas.getPointer(options.e);
+            obj.set({
+                left: pointer.x,
+                top: pointer.y
+            });
+            canvas.renderAll();
+        }
+    });
+
+    // タッチイベントの追加（スマホ対応）
+    document.getElementById('layersList').addEventListener('touchstart', function(e) {
+        const touch = e.touches[0];
+        dragStartIndex = touch.target.closest('li').dataset.index;
+    });
+
+    document.getElementById('layersList').addEventListener('touchmove', function(e) {
+        e.preventDefault();
+    });
+
+    document.getElementById('layersList').addEventListener('touchend', function(e) {
+        const touch = e.changedTouches[0];
+        const dragEndIndex = document.elementFromPoint(touch.clientX, touch.clientY).closest('li').dataset.index;
+        if (dragEndIndex !== undefined && dragStartIndex !== undefined) {
+            const objects = canvas.getObjects();
+            const temp = objects[dragStartIndex];
+            objects[dragStartIndex] = objects[dragEndIndex];
+            objects[dragEndIndex] = temp;
+            canvas.clear();
+            objects.forEach(obj => canvas.add(obj));
+            canvas.renderAll();
+            updateLayers();
+        }
+    });
 };
