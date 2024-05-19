@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>画像コラージュ作成アプリ</title>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/fabric.js/5.3.1/fabric.min.js"></script>
+    <style>
+        #canvas-container {
+            border: 1px solid #ccc;
+            margin-top: 20px;
+            float: left;
+        }
+        #layers-container {
+            float: right;
+            width: 200px;
+            border: 1px solid #ccc;
+            margin-top: 20px;
+            padding: 10px;
+        }
+        .layer-item {
+            display: flex;
+            align-items: center;
+            margin: 5px 0;
+            padding: 5px;
+            background-color: #f0f0f0;
+            cursor: move;
+        }
+        .layer-icon {
+            width: 24px;
+            height: 24px;
+            margin-right: 10px;
+            object-fit: cover;
+        }
+    </style>
+</head>
+<body>
+    <h1>画像コラージュ作成アプリ</h1>
+    <input type="file" id="fileInput" multiple>
+    <button onclick="saveCanvas()">キャンバスを保存</button>
+    <br>
+    <input type="file" id="backgroundInput">
+    <button onclick="uploadBackground()">背景画像をアップロード</button>
+    <div id="canvas-container">
+        <canvas id="c" width="800" height="600"></canvas>
+    </div>
+    <div id="layers-container">
+        <h3>レイヤー</h3>
+        <ul id="layersList"></ul>
+    </div>
+    <script src="script.js"></script>
+</body>
+</html>
