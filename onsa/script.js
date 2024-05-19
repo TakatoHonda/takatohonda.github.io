@@ -4,6 +4,8 @@ window.onload = function() {
     const canvas = new fabric.Canvas('c');
     const canvasWidth = canvas.getWidth();
     const canvasHeight = canvas.getHeight();
+    let isPinching = false;
+    let startDistance = 0;
 
     // レイヤーリストの更新
     function updateLayers() {
@@ -105,6 +107,57 @@ window.onload = function() {
         }
     });
 
+    // 背景画像のアップロード機能
+    document.getElementById('backgroundInput').addEventListener('change', function(e) {
+        const file = e.target.files[0];
+        if (file) {
+            const reader = new FileReader();
+            reader.onload = function(f) {
+                const data = f.target.result;
+                console.log('Background file loaded:', data);
+                fabric.Image.fromURL(data, function(img) {
+                    img.set({
+                        originX: 'left',
+                        originY: 'top',
+                        left: 0,
+                        top: 0,
+                        width: canvasWidth,
+                        height: canvasHeight,
+                        scaleX: canvasWidth / img.width,
+                        scaleY: canvasHeight / img.height
+                    });
+                    canvas.setBackgroundImage(img, canvas.renderAll.bind(canvas));
+                    console.log('Background image set');
+                });
+            };
+            reader.onerror = function(error) {
+                console.error('Error reading background file:', error);
+            };
+            reader.readAsDataURL(file);
+        }
+    });
+
+    // キャンバスクリックイベントリスナー
+    canvas.on('mouse:down', function(options) {
+        if (options.target == null) {
+            const text = prompt('入力するテキストを入力してください:');
+            if (text) {
+                const pointer = canvas.getPointer(options.e);
+                const textObj = new fabric.Text(text, {
+                    left: pointer.x,
+                    top: pointer.y,
+                    fontSize: 20,
+                    fill: 'black'
+                });
+                canvas.add(textObj);
+                canvas.setActiveObject(textObj);
+                canvas.renderAll();
+                console.log('Text added to canvas:', text);
+                updateLayers();
+            }
+        }
+    });
+
     // キャンバスの内容を保存する関数
     window.saveCanvas = function() {
         const dataURL = canvas.toDataURL({
@@ -117,17 +170,39 @@ window.onload = function() {
         link.click();
     };
 
-    // タッチイベントの追加（スマホ対応）
-    canvas.on('touch:drag', function(options) {
+    // ピンチジェスチャーの処理
+    canvas.on('touch:gesture', function(e) {
+        const obj = canvas.getActiveObject();
+        if (obj && e.e.touches.length === 2) {
+            if (!isPinching) {
+                isPinching = true;
+                startDistance = getDistance(e.e.touches[0], e.e.touches[1]);
+            } else {
+                const currentDistance = getDistance(e.e.touches[0], e.e.touches[1]);
+                const scale = currentDistance / startDistance;
+                obj.scale(scale);
+                canvas.renderAll();
+            }
+        }
+    });
+
+    canvas.on('touch:drag', function(e) {
+        if (isPinching) {
+            return;
+        }
         const obj = canvas.getActiveObject();
         if (obj) {
-            const pointer = canvas.getPointer(options.e);
+            const pointer = canvas.getPointer(e.e);
             obj.set({
                 left: pointer.x,
                 top: pointer.y
             });
             canvas.renderAll();
         }
+    });
+
+    canvas.on('touch:end', function(e) {
+        isPinching = false;
     });
 
     // タッチイベントの追加（スマホ対応）
@@ -154,4 +229,12 @@ window.onload = function() {
             updateLayers();
         }
     });
+
+    // 距離計算の補助関数
+    function getDistance(touch1, touch2) {
+        return Math.sqrt(
+            Math.pow(touch2.clientX - touch1.clientX, 2) +
+            Math.pow(touch2.clientY - touch1.clientY, 2)
+        );
+    }
 };
