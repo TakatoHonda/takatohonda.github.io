@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <meta charset="UTF-8">
+    <meta name="keywords" content="2ch,2ちゃんねる,二チャンネル,ジェネレータ,スレ作成,スレジェネレーター,2ch風">
+    <meta name="description" content="2chのスレ風なものを作ります。いろいろ指定できます。">
+    <link rel="icon" type="image/gif" href="material/img/favicon.gif">
+    <link rel="stylesheet" href="material/css/style.css">
+    <title>2ch風スレッドジェネレーター</title>
+    <script type="text/javascript"  src="material/js/main.js" charset="utf-8"></script>
+</head>
+<body><script type="text/javascript" charset="utf-8" src="https://asumi.shinobi.jp/encount"></script><div style="text-align: center;"><div style="display: inline-block; position: relative; z-index: 9999;"><script type="text/javascript" charset="utf-8" src="https://asumi.shinobi.jp/fire?f=435"></script><script type="text/javascript" charset="utf-8" src="__sys__inactive_message.js"></script></div></div>
+    <!--ヘッダー-->
+    <div class="hd">
+        <img src="material/img/logo.gif" onclick="Move('https://www.2ch.sc/',true)" alt="2ちゃんねる(2ch)" class="Logo">
+    </div>
+
+    <!--メイン内容-->
+    <div class="wra main">
+        <!--メイン-->
+        <article>
+            <!-- <div class="nobr">
+                <p>現在のレス番号 : </p>
+                <p style="padding-left: 5px; font-size: 20px;" id="thnum">1</p>
+            </div> -->
+            <div class="nobr">
+                <p>レス番号 : </p>
+                <input type="text" maxlength="15" value="1" id="thnum">
+            </div>
+            <div class="nobr">
+                <p>名前 : </p>
+                <input type="text" maxlength="15" value="風吹けば名無し" id="nm">
+            </div>
+            <div class="nobr">
+                <p>ID : </p>
+                <input type="text" maxlength="9" id="id">
+                <input type="button" value="ID変更" maxlength="9" onclick="ID_set(9)" class="bt">
+                <select style="margin-left: 30px; width: 300px;" name="ids" id="sel">
+                    <option disabled="disabled">名前 : ID</option>
+                </select>
+                <input type="button" style="margin-left: 20px;" value="セット" onclick="set()" class="bt">
+                <input type="button" style="margin-left: 20px;" value="保存" onclick="save()" class="bt">
+            </div>
+            <div class="nobr">
+                <p>日付 : </p>
+                <input type="date" id="dt">
+                <input type="button" value="現在日付" onclick="date_set()" class="bt">
+            </div>
+            <div class="nobr">
+                <p>時間 : </p>
+                <input type="time" step="1" id="tm">
+                <input type="button" value="現在時刻" onclick="time_set()" class="bt">
+            </div>
+            <div class="nobr">
+                <p>内容 : </p>
+                <textarea style="width: 400px; height: 150px;" id="cn"></textarea>
+                <input type="button" value="クリア" style="margin-left: 10px;" onclick="document.getElementById('cn').value = '';" class="bt">
+                <input type="button" value="リンク" style="margin-left: 10px;" onclick="paste_link()" class="bt">
+                <input type="button" value="安価" style="margin-left: 10px;" onclick="anka()" class="bt">
+            </div>
+            <input type="button" value="書き込む" style="width: 150px; height: 70px;" onclick="kakiko()" class="bt">
+            <input id="echo" type="button" value="出力" style="width: 150px; height: 70px; margin-left: 20px;" onclick="end()" class="bt">
+            <span style="margin-left: 30px;">過去ログ化 : <input id="log" class="bt" type="checkbox"></span>
+            <span style="margin-left: 30px;">MSPゴシック : <input id="font" class="bt" type="checkbox"></span>
+            <iframe style="margin-top: 30px; width: 100%; height: 500px; border: groove 3px white;" id="if">プレビューはiframe対応のブラウザ(Chromeなど)でご覧ください</iframe>
+        </article>
+    </div>
+<div style="text-align: center;"><div style="display: inline-block; position: relative; z-index: 9999;"><script type="text/javascript" charset="utf-8" src="https://asumi.shinobi.jp/fire?f=434"></script></div></div></body>
+</html>

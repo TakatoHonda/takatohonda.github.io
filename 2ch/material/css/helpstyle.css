@@ -1,0 +1,36 @@
+body {
+    font-family: "Yu Gothic","游ゴシック";
+    background-color: #EFEFEF;
+}
+
+/*目次*/
+
+.index {
+    margin-left: 4%;
+    margin-top: 4%;
+    padding-bottom: 20px;
+    background-color: lightgray;
+    border: solid 2px gray;
+    width: 15%;
+    text-align: center;
+}
+
+/*内容*/
+
+.minia {
+    font-size: 18px;
+    padding-left: 20px;
+}
+
+h3 {
+    padding-left: 10px;
+}
+
+.box > h1 {
+    border-bottom: groove 2px gray;
+    border-left: solid 5px orangered;
+    padding-left: 10px;
+}
+.box > p {
+    padding-left: 10px;
+}
