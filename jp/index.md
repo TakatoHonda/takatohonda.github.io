@@ -114,7 +114,6 @@ Koki Kawabata, Yasuko Matsubara, Takato Honda and Yasushi Sakurai: “Non-Linear
 ご支援に深くお礼申し上げます．  
 
 ### 職歴
-- \[2022年-現在\]: 株式会社ソルシエ CTO
 - \[2022年-現在\]: 株式会社メロン 共同代表CTO
 - \[2021年-2022年\]: 株式会社JDSC データサイエンティスト/起業家支援制度
 - \[2020年-2021年\]: 大阪大学 産業科学研究所 特任助教

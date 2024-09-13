@@ -6,8 +6,8 @@ layout: default
 Takato Honda is a data scientist in Japan.
 My research focuses on time-series tensor mining for IoT sensor sequences.  
 Contact me:  
-<hndtkt.c@gmail.com>  
-<!-- <takato@melloninc.jp>   -->
+<!-- <hndtkt.c@gmail.com>   -->
+<takato@melloninc.jp>  
 
 ### Conferences (Recently)
 <details>
@@ -77,7 +77,6 @@ Thank you for your numerous support of me.
 - Python, C, C++,  
  
 ### Experiences
-- \[2022 - \]: CTO at SORCIER Inc.
 - \[2022 - \]: Co-founder CTO at Mellon Inc.
 - \[2021-2022\]: Data scientist at JDSC Co., Ltd.
 - \[2020-2021\]: Specially appointed assistant professor at Osaka University  
