@@ -148,6 +148,9 @@
         <button class="char-btn" onclick="selectCharacter(1)" title="宇宙飛行士">
             <i data-lucide="rocket"></i>
         </button>
+        <button class="char-btn" onclick="selectCharacter(2)" title="Pinpon">
+            <i data-lucide="circle"></i>
+        </button>
     </div>
 
     <button class="ar-button" onclick="activateAR()">AR</button>
@@ -170,6 +173,12 @@
                 name: '宇宙飛行士',
                 src: 'https://modelviewer.dev/shared-assets/models/Astronaut.glb',
                 iosSrc: 'https://modelviewer.dev/shared-assets/models/Astronaut.usdz',
+                cameraOrbit: '0deg 75deg 10m'
+            },
+            {
+                name: 'Pinpon',
+                src: './pinpon3d.glb',
+                iosSrc: './pinpon3d.glb',  // USDZがない場合はGLBを指定
                 cameraOrbit: '0deg 75deg 10m'
             }
         ];
