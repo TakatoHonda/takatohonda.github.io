@@ -178,7 +178,7 @@
             {
                 name: 'Pinpon',
                 src: './pinpon3d.glb',
-                iosSrc: './pinpon3d.glb',  // USDZがない場合はGLBを指定
+                iosSrc: null,  // nullの場合、model-viewerが自動的にGLBからUSDZを生成
                 cameraOrbit: '0deg 75deg 10m'
             }
         ];
@@ -197,7 +197,14 @@
             
             // モデル切り替え
             viewer.src = char.src;
-            viewer.setAttribute('ios-src', char.iosSrc);
+            
+            // ios-srcの設定（nullの場合は属性を削除してmodel-viewerに自動生成させる）
+            if (char.iosSrc) {
+                viewer.setAttribute('ios-src', char.iosSrc);
+            } else {
+                viewer.removeAttribute('ios-src');
+            }
+            
             viewer.setAttribute('camera-orbit', char.cameraOrbit);
             
             // ボタンのアクティブ状態更新
