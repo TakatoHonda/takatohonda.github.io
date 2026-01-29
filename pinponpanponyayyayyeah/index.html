@@ -121,7 +121,7 @@
     <model-viewer
         id="viewer"
         src="https://modelviewer.dev/shared-assets/models/RobotExpressive.glb"
-        ios-src="https://modelviewer.dev/shared-assets/models/Astronaut.usdz"
+        ios-src="https://modelviewer.dev/shared-assets/models/RobotExpressive.usdz"
         alt="3Dモデル"
         ar
         ar-modes="quick-look scene-viewer webxr"
@@ -132,7 +132,7 @@
         shadow-intensity="1"
         exposure="1"
         environment-image="neutral"
-        camera-orbit="0deg 75deg 5m"
+        camera-orbit="0deg 75deg 2.5m"
         min-camera-orbit="auto auto 0.5m"
         max-camera-orbit="auto auto 50m"
         min-field-of-view="10deg"
@@ -158,17 +158,19 @@
         const loading = document.getElementById('loading');
         const charBtns = document.querySelectorAll('.char-btn');
 
-        // キャラクターデータ
+        // キャラクターデータ（カメラ距離も含む）
         const characters = [
             {
                 name: 'ロボット',
                 src: 'https://modelviewer.dev/shared-assets/models/RobotExpressive.glb',
-                iosSrc: 'https://modelviewer.dev/shared-assets/models/Astronaut.usdz'
+                iosSrc: 'https://modelviewer.dev/shared-assets/models/RobotExpressive.usdz',
+                cameraOrbit: '0deg 75deg 2.5m'  // 宇宙飛行士と同じくらいの距離
             },
             {
                 name: '宇宙飛行士',
                 src: 'https://modelviewer.dev/shared-assets/models/Astronaut.glb',
-                iosSrc: 'https://modelviewer.dev/shared-assets/models/Astronaut.usdz'
+                iosSrc: 'https://modelviewer.dev/shared-assets/models/Astronaut.usdz',
+                cameraOrbit: '0deg 75deg 2.5m'
             }
         ];
 
@@ -187,6 +189,7 @@
             // モデル切り替え
             viewer.src = char.src;
             viewer.setAttribute('ios-src', char.iosSrc);
+            viewer.setAttribute('camera-orbit', char.cameraOrbit);
             
             // ボタンのアクティブ状態更新
             charBtns.forEach((btn, i) => {
