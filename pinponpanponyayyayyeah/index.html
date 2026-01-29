@@ -8,6 +8,9 @@
     <!-- model-viewer スクリプト -->
     <script type="module" src="https://unpkg.com/@google/model-viewer/dist/model-viewer.min.js"></script>
     
+    <!-- Lucide Icons (shadcn/ui で使われているアイコンライブラリ) -->
+    <script src="https://unpkg.com/lucide@0.468.0/dist/umd/lucide.min.js"></script>
+    
     <style>
         * {
             margin: 0;
@@ -51,7 +54,17 @@
             display: flex;
             align-items: center;
             justify-content: center;
-            font-size: 2rem;
+        }
+
+        .char-btn svg {
+            width: 32px;
+            height: 32px;
+            stroke: #333;
+            stroke-width: 1.5;
+        }
+
+        .char-btn.active svg {
+            stroke: #000;
         }
 
         .char-btn:hover {
@@ -129,8 +142,12 @@
 
     <!-- キャラ選択 -->
     <div class="character-select">
-        <button class="char-btn active" onclick="selectCharacter(0)" title="ロボット">🤖</button>
-        <button class="char-btn" onclick="selectCharacter(1)" title="宇宙飛行士">👨‍🚀</button>
+        <button class="char-btn active" onclick="selectCharacter(0)" title="ロボット">
+            <i data-lucide="bot"></i>
+        </button>
+        <button class="char-btn" onclick="selectCharacter(1)" title="宇宙飛行士">
+            <i data-lucide="rocket"></i>
+        </button>
     </div>
 
     <button class="ar-button" onclick="activateAR()">AR</button>
@@ -195,8 +212,12 @@
             if (isIOS) {
                 alert('iOSでARを使用するには、Safariで開いてください。');
             } else {
-                alert('このデバイスはARに対応していません。');            }
+                alert('このデバイスはARに対応していません。');
+            }
         }
+
+        // Lucide Iconsを初期化
+        lucide.createIcons();
     </script>
 </body>
 </html>
